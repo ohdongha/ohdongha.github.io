@@ -1,7 +1,5 @@
 ## Publications
-Numbers "cited by" [@Google Scholar](https://scholar.google.com/citations?user=nueqysEAAAAJ&hl=en)
-
-Back to [the main](index.md)
+Numbers "cited by" [@Google Scholar](https://scholar.google.com/citations?user=nueqysEAAAAJ&hl=en); Back to [the main](index.md)
 
 ### Publications a first/corresponding author 
 (<sup>\*</sup>equal contribution; underline=me)
