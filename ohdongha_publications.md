@@ -38,7 +38,7 @@ See numbers "cited by" [@Google Scholar](https://scholar.google.com/citations?us
 - <u>D-H Oh</u>, KJ Song, YU Shin, WI Chung (2000), **Isolation of a cDNA encoding a 31-kDa, pathogenesis-related 5/thaumatin-like (PR5/TL) protein abundantly expressed in apple fruit (_Malus domestica_ cv. Fuji).** _Biosci Biotechnol Biochem_ 64:355-362.
 
 ## Publications as a co-author 
-(<sup>\*</sup>equal contribution; corresponding author)
+(<sup>\*</sup>equal contribution; underlined=me)
 
 2021 and after
 - K-N Tran<sup>\*</sup>, P Pantha<sup>\*</sup>, G Wang<sup>\*</sup>, N Kumar<sup>\*</sup>, C Wijesinghege, <u>D-H Oh</u>, N Duppen, H Li, H Hong, JC Johnson, R Kelt, MG Matherne, A Clement, D Tran, C Crain, P Adhikari, Y Zhang, M Foroozani, G Sessa, JC Larkin, AP Smith, D Longstreth, P Finnegan, C Testerink, S Barak, M Dassanayake (2021) **Balancing growth amidst salinity stress-lifestyle perspectives from the extremophyte model _Schrenkiella parvula_.** _bioRxiv_ [doi:10.1101/2021.08.27.457575](https://doi.org/10.1101/2021.08.27.457575)
