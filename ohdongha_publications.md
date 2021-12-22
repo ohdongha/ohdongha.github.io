@@ -1,7 +1,7 @@
 ## Publications
-[Dong-Ha Oh @Google Scholar](https://scholar.google.com/citations?user=nueqysEAAAAJ&hl=en)
+Numbers "cited by" [@Google Scholar](https://scholar.google.com/citations?user=nueqysEAAAAJ&hl=en)
 
-### Publications as a first/corresponding author 
+### Publications a first/corresponding author 
 (<sup>\*</sup>equal contribution; <sup>#</sup>corresponding author)
 
 2021 and after
@@ -19,7 +19,7 @@
 - **D-H Oh**<sup>\*</sup><sup>#</sup>, H Hong<sup>\*</sup>, SYLee, D-J Yun, HJ Bohnert, M Dassanayake<sup>#</sup> (2014), Genome structures and transcriptomes signify niche adaptation for the multi-ion tolerant extremophyte Schrenkiella parvula. Plant Physiol 164:2123-2138 [doi:10.1104/pp.113.233551](https://doi.org/10.1104/pp.113.233551)
 
 2012
-- H-J Wu<sup>\*</sup>, Z Zhang<sup>\*</sup>, J-Y Wang<sup>\*</sup>, D-H OH<sup>\*</sup>, M Dassanayake<sup>\*</sup>, B Liu<sup>\*</sup>, Q Huang<sup>\*</sup>, HX Sun, R Xia, Y Wu, Y Wang, Z Yang, Y Liu, W Zhang, H Zhang, J Chu, C Yan, S Fang, J Zhang, Y Wang, F Zhang, G Wang, SY Lee, JM Cheeseman, B Yang, B Li, J Min, L Yang, J Wang, C Chu, SY Chen, HJ Bohnert, JK Zhu, XJ Wang, Q Xie (2012), Insights into salt tolerance from the genome of Thellungiella salsuginea. Proc Natl Acad Sci USA 109:12219-12224 [doi:10.1073/pnas.1209954109](https://doi.org/10.1073/pnas.1209954109)
+- H-J Wu<sup>\*</sup>, Z Zhang<sup>\*</sup>, J-Y Wang<sup>\*</sup>, **D-H Oh**<sup>\*</sup>, M Dassanayake<sup>\*</sup>, B Liu<sup>\*</sup>, Q Huang<sup>\*</sup>, HX Sun, R Xia, Y Wu, Y Wang, Z Yang, Y Liu, W Zhang, H Zhang, J Chu, C Yan, S Fang, J Zhang, Y Wang, F Zhang, G Wang, SY Lee, JM Cheeseman, B Yang, B Li, J Min, L Yang, J Wang, C Chu, SY Chen, HJ Bohnert, JK Zhu, XJ Wang, Q Xie (2012), Insights into salt tolerance from the genome of Thellungiella salsuginea. Proc Natl Acad Sci USA 109:12219-12224 [doi:10.1073/pnas.1209954109](https://doi.org/10.1073/pnas.1209954109)
 - Z Ali<sup>\*</sup>, A Ali<sup>\*</sup>, HC Park<sup>\*</sup>, **D-H Oh**<sup>\*</sup>, R Aman, A Kropornicka, H Hong, RA Bressan, HJ Bohnert, W-Y Kim, SY Lee, and D-J Yun<sup>#</sup> (2012), TsHKT1;2, a HKT1 homolog from the extremophile Arabidopsis-relative Thellungiella salsuginea, shows K+-specificity in the presence of NaCl. Plant Physiol 158:1463-1474. [doi:10.1104/pp.111.193110](https://doi.org/10.1104/pp.111.193110)
 - **D-H Oh**<sup>\*</sup>, M Dassanayake<sup>\*</sup>, HJ Bohnert and JM Cheeseman<sup>#</sup> (2012), Life in the extreme: Lessons from Genomics. Genome Biol 13:241 [doi:10.1186/gb4003](https://doi.org/10.1186/gb4003)
 
