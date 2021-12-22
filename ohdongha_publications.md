@@ -10,7 +10,7 @@ Numbers "cited by" [@Google Scholar](https://scholar.google.com/citations?user=n
 
 2019
 - <u>D-H Oh</u> and M Dassanayake (2019), **Landscape of gene transposition-duplication within the Brassicaceae family.** _DNA Res_ 26:21-36 [10.1093/dnares/dsy035](https://doi.org/10.1093/dnares/dsy035)
-- G Wang, P Pantha, K-N Tran, <u>D-H Oh</u>, M Dassanayake (2019), Plant growth and agrobacterium-mediated floral-dip transformation of the extremophyte _Schrenkiella parvula_. _J Vis Exp_ 143;e58544.
+- G Wang, P Pantha, K-N Tran, <u>D-H Oh</u>, M Dassanayake (2019), **Plant growth and agrobacterium-mediated floral-dip transformation of the extremophyte _Schrenkiella parvula_.** _J Vis Exp_ 143;e58544.
 
 2015
 - <u>D-H Oh</u>, BJ Barkla, R Vera-Estrella, O Pantoja, SY Lee, HJ Bohnert, M Dassanayake (2015), **Cell type-specific responses to salinity - the epidermal bladder cell transcriptome of _Mesembryanthemum crystallinum_.** _New Phytol_ 207:627-644 [doi:10.1111/nph.13414](https://doi.org/10.1111/nph.13414)
@@ -24,7 +24,7 @@ Numbers "cited by" [@Google Scholar](https://scholar.google.com/citations?user=n
 - <u>D-H Oh</u><sup>\*</sup>, M Dassanayake<sup>\*</sup>, HJ Bohnert and JM Cheeseman (2012), **Life in the extreme: lessons from genomics.** _Genome Biol_ 13:241 [doi:10.1186/gb4003](https://doi.org/10.1186/gb4003)
 
 2011
-- M Dassanayake<sup>\*#</sup>, <u>D-H Oh</u><sup>\*#</sup>, JS Haas, A Hernandez, H Hong, S Ali, D-J Yun, RA Bressan, J-K Zhu, HJ Bohnert and JM Cheeseman (2011), **The genome of the extremophile crucifer _Thellungiella parvula_.** _Nat Genet_ 43:913-918 [doi:10.1038/ng.889](https://doi.org/10.1038/ng.889)
+- M Dassanayake<sup>\*</sup>, <u>D-H Oh</u><sup>\*</sup>, JS Haas, A Hernandez, H Hong, S Ali, D-J Yun, RA Bressan, J-K Zhu, HJ Bohnert and JM Cheeseman (2011), **The genome of the extremophile crucifer _Thellungiella parvula_.** _Nat Genet_ 43:913-918 [doi:10.1038/ng.889](https://doi.org/10.1038/ng.889)
 - <u>D-H Oh</u><sup>\*</sup>, M Dassanayake<sup>\*</sup>, JS Haas, A Kropornicka, C Wright, MP D’Urzo, H Hong, S Ali, A Hernandez, GM Lambert, G Inan, DW Galbraith, RA Bressan, D-J Yun, J-K Zhu, JM Cheeseman, and HJ Bohnert (2010), **Genome structures and halophyte-specific gene expression of the extremophile _Thellungiella parvula_ in comparison with _Thellungiella salsuginea_ (_Thellungiella halophila_) and _Arabidopsis_.** _Plant Physiol_ 154:1040-1052 [doi:10.1104/pp.110.163923](https://doi.org/10.1104/pp.110.163923)
 - <u>D-H Oh</u>, SY Lee, RA Bressan, D-J Yun, and HJ Bohnert (2010), **Intracellular consequences of SOS1 deficiency during salt stress.** _J Exp Bot_ 61:1205-1213 [doi:10.1093/jxb/erp391](https://doi.org/10.1093/jxb/erp391)
 
