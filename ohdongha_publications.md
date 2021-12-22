@@ -5,12 +5,12 @@
 (<sup>\*</sup>equal contribution; <sup>#</sup>corresponding author)
 
 2021 and after
-- Y Sun<sup>\*</sup>, **D-H Oh**<sup>\*</sup>, L Duan, P Ramachandran, A Bartlett, M Dassanayake, JR Dinneny<sup>#</sup> (2021), Divergence in a stress regulatory network underlies differential growth control. bioRxiv [doi:10.1101/2020.11.18.349449](https://doi.org/10.1101/2020.11.18.349449)
-- **D-H Oh**<sup>#</sup>, KP Kowalski<sup>#</sup>, C Wijesinghege, Q Quach, P Tanford, M Dassanayake<sup>#</sup>, K Clay<sup>#</sup> (2021),  Novel genome characteristics contribute to the invasiveness of Phragmites australis (common reed). Mol Ecol  [doi:10.1111/mec.16293](https://doi.org/10.1111/mec.16293) 
+- Y Sun<sup>\*</sup>, **D-H Oh**<sup>\*</sup>, L Duan, P Ramachandran, A Bartlett, M Dassanayake, JR Dinneny<sup>#</sup> (2021), Divergence in a stress regulatory network underlies differential growth control. *bioRxiv* [doi:10.1101/2020.11.18.349449](https://doi.org/10.1101/2020.11.18.349449)
+- **D-H Oh**<sup>#</sup>, KP Kowalski<sup>#</sup>, C Wijesinghege, Q Quach, P Tanford, M Dassanayake<sup>#</sup>, K Clay<sup>#</sup> (2021),  Novel genome characteristics contribute to the invasiveness of _Phragmites australis_ (common reed). **_Mol Ecol_** [doi:10.1111/mec.16293](https://doi.org/10.1111/mec.16293) 
 
 2019
-- **D-H Oh**<sup>#</sup> and M Dassanayake<sup>#</sup> (2019), Landscape of gene transposition-duplication within the Brassicaceae family. DNA Res 26:21-36 [10.1093/dnares/dsy035](https://doi.org/10.1093/dnares/dsy035)
-- G Wang, P Pantha, K-N Tran, **D-H Oh**<sup>#</sup>, M Dassanayake<sup>#</sup> (2019), Plant growth and agrobacterium-mediated floral-dip transformation of the extremophyte Schrenkiella parvula. J Vis Exp 143;e58544.
+- **D-H Oh**<sup>#</sup> and M Dassanayake<sup>#</sup> (2019), Landscape of gene transposition-duplication within the Brassicaceae family. **_DNA Res_** 26:21-36 [10.1093/dnares/dsy035](https://doi.org/10.1093/dnares/dsy035)
+- G Wang, P Pantha, K-N Tran, **D-H Oh**<sup>#</sup>, M Dassanayake<sup>#</sup> (2019), Plant growth and agrobacterium-mediated floral-dip transformation of the extremophyte Schrenkiella parvula. **_J Vis Exp_** 143;e58544.
 
 2015
 - **D-H Oh**, BJ Barkla<sup>#</sup>, R Vera-Estrella, O Pantoja, SY Lee, HJ Bohnert, M Dassanayake<sup>#</sup> (2015), Cell type-specific responses to salinity - the epidermal bladder cell transcriptome of Mesembryanthemum crystallinum. New Phytol 207:627-644 [doi:10.1111/nph.13414](https://doi.org/10.1111/nph.13414)
