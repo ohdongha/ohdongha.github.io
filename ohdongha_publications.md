@@ -1,7 +1,6 @@
-## Publications
 See numbers "cited by" [@Google Scholar](https://scholar.google.com/citations?user=nueqysEAAAAJ&hl=en); Go back to [the main](index.md)
 
-### Publications a first/corresponding author 
+## Publications a first/corresponding author 
 (<sup>\*</sup>equal contribution; underline=me)
 
 2021 and after
@@ -37,7 +36,7 @@ See numbers "cited by" [@Google Scholar](https://scholar.google.com/citations?us
 - <u>D-H Oh</u>, CS Kwon, H Sano, WI Chung, N Koizumi (2003), **Conservation between animals and plants of the _cis_-acting element involved in the unfolded protein response.** _Biochem Biophys Res Commun_ 301:225-230.
 - <u>D-H Oh</u>, KJ Song, YU Shin, WI Chung (2000), **Isolation of a cDNA encoding a 31-kDa, pathogenesis-related 5/thaumatin-like (PR5/TL) protein abundantly expressed in apple fruit (_Malus domestica_ cv. Fuji).** _Biosci Biotechnol Biochem_ 64:355-362.
 
-### Publications as a co-author 
+## Publications as a co-author 
 (<sup>\*</sup>equal contribution; corresponding author)
 
 2021 and after
