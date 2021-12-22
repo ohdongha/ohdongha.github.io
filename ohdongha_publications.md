@@ -2,7 +2,7 @@
 Numbers "cited by" [@Google Scholar](https://scholar.google.com/citations?user=nueqysEAAAAJ&hl=en)
 
 ### Publications a first/corresponding author 
-(<sup>\*</sup>equal contribution; <sup>#</sup>corresponding author)
+(<sup>\*</sup>equal contribution; <sup>\#</sup>corresponding author)
 
 2021 and after
 - Y Sun<sup>\*</sup>, **D-H Oh**<sup>\*</sup>, L Duan, P Ramachandran, A Bartlett, M Dassanayake, JR Dinneny<sup>#</sup> (2021), Divergence in a stress regulatory network underlies differential growth control. _bioRxiv_ [doi:10.1101/2020.11.18.349449](https://doi.org/10.1101/2020.11.18.349449)
