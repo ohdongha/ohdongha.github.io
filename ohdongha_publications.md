@@ -1,4 +1,4 @@
-## Publications a first/corresponding author (<sup>\*</sup>equal contribution; <sup>#</sup>corresponding author)
+### Publications a first/corresponding author (<sup>\*</sup>equal contribution; <sup>#</sup>corresponding author)
 - Y Sun<sup>\*</sup>, **D-H Oh**<sup>\*</sup>, L Duan, P Ramachandran, A Bartlett, M Dassanayake, JR Dinneny<sup>#</sup> (2021), Divergence in a stress regulatory network underlies differential growth control. bioRxiv [doi:10.1101/2020.11.18.349449](https://doi.org/10.1101/2020.11.18.349449)
 - **D-H Oh**<sup>#</sup>, KP Kowalski<sup>#</sup>, C Wijesinghege, Q Quach, P Tanford, M Dassanayake<sup>#</sup>, K Clay<sup>#</sup> (2021),  Novel genome characteristics contribute to the invasiveness of Phragmites australis (common reed). Mol Ecol  [doi:10.1111/mec.16293](https://doi.org/10.1111/mec.16293) 
 - **D-H Oh**<sup>#</sup> and M Dassanayake<sup>#</sup> (2019), Landscape of gene transposition-duplication within the Brassicaceae family. DNA Res 26:21-36 (https://doi.org/10.1093/dnares/dsy035)
@@ -17,7 +17,7 @@
 - **D-H Oh**, CS Kwon, H Sano, WI Chung<sup>#</sup>, N Koizumi<sup>#</sup> (2003), Conservation between animals and plants of the cis-acting element involved in the unfolded protein response. Biochem Biophys Res Commun 301:225-230.
 - **D-H Oh**, KJ Song, YU Shin, WI Chung<sup>#</sup> (2000), Isolation of a cDNA encoding a 31-kDa, pathogenesis-related 5/thaumatin-like (PR5/TL) protein abundantly expressed in apple fruit (Malus domestica cv. Fuji). Biosci Biotechnol Biochem 64:355-362.
 
-## Publications as a co-author (<sup>\*</sup>equal contribution; <sup>#</sup>corresponding author)
+### Publications as a co-author (<sup>\*</sup>equal contribution; <sup>#</sup>corresponding author)
 - K-N Tran<sup>\*</sup>, P Pantha<sup>\*</sup>, G Wang<sup>\*</sup>, N Kumar<sup>\*</sup>, C Wijesinghege, **D-H Oh**, N Duppen, H Li, H Hong, JC Johnson, R Kelt, MG Matherne, A Clement, D Tran, C Crain, P Adhikari, Y Zhang, M Foroozani, G Sessa, JC Larkin, AP Smith, D Longstreth, P Finnegan, C Testerink, S Barak, M Dassanayake<sup>#</sup> (2021) Balancing growth amidst salinity stress-lifestyle perspectives from the extremophyte model Schrenkiella parvula. bioRxiv [doi:10.1101/2021.08.27.457575](https://doi.org/10.1101/2021.08.27.457575)
 - P Pantha, **D-H Oh**, D Longstreth, M Dassanayake<sup>#</sup> (2021) Living with high potassium: an asset or a hindrance. bioRxiv [doi:10.1101/2021.07.01.450778](https://doi.org/10.1101/2021.07.01.450778)
 - G Eshel<sup>\*</sup>, N Duppen<sup>\*</sup>, G Wang, **D-H Oh**, Y Kazachkova, P Herzyk, A Amtmann, M Gordon, V Chalifa-Caspi, MO Arland, S Bar-David, A Marshall-Colon, M Dassanayake<sup>#</sup>, S Barak<sup>#</sup> (2021) Positive selection and heat-response transcriptomes reveal adaptive features of the Arabidopsis desert relative, Anastatica hierochuntica. bioRxiv [doi:10.1101/2021.05.23.445339](https://doi.org/10.1101/2021.05.23.445339)
