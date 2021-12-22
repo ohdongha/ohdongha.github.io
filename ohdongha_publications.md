@@ -1,4 +1,7 @@
-### Publications a first/corresponding author 
+## Publications
+[Dong-Ha Oh @Google Scholar](https://scholar.google.com/citations?user=nueqysEAAAAJ&hl=en)
+
+### Publications as a first/corresponding author 
 (<sup>\*</sup>equal contribution; <sup>#</sup>corresponding author)
 
 2021 and after
