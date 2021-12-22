@@ -1,7 +1,7 @@
 # Publications
 See numbers "cited by" [@Google Scholar](https://scholar.google.com/citations?user=nueqysEAAAAJ&hl=en)
 
-## Publications a first/corresponding author 
+## Publications as a first/corresponding author 
 (<sup>\*</sup>equal contribution; underline=me)
 
 2021 and after
