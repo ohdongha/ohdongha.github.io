@@ -24,18 +24,18 @@ Numbers "cited by" [@Google Scholar](https://scholar.google.com/citations?user=n
 - **D-H Oh**<sup>\*</sup>, M Dassanayake<sup>\*</sup>, HJ Bohnert and JM Cheeseman<sup>#</sup> (2012), Life in the extreme: Lessons from Genomics. **_Genome Biol_** 13:241 [doi:10.1186/gb4003](https://doi.org/10.1186/gb4003)
 
 2011
-- M Dassanayake<sup>\*#</sup>, **D-H Oh**<sup>\*#</sup>, JS Haas, A Hernandez, H Hong, S Ali, D-J Yun<sup>#</sup>, RA Bressan, J-K Zhu, HJ Bohnert and JM Cheeseman (2011), The genome of the extremophile crucifer Thellungiella parvula. **_Nat Genet_** 43:913-918 [doi:10.1038/ng.889](https://doi.org/10.1038/ng.889)
+- M Dassanayake<sup>\*#</sup>, **D-H Oh**<sup>\*#</sup>, JS Haas, A Hernandez, H Hong, S Ali, D-J Yun<sup>#</sup>, RA Bressan, J-K Zhu, HJ Bohnert and JM Cheeseman (2011), The genome of the extremophile crucifer _Thellungiella parvula_. **_Nat Genet_** 43:913-918 [doi:10.1038/ng.889](https://doi.org/10.1038/ng.889)
 - **D-H Oh**<sup>\*</sup><sup>#</sup>, M Dassanayake<sup>\*</sup>, JS Haas, A Kropornicka, C Wright, MP D’Urzo, H Hong, S Ali, A Hernandez, GM Lambert, G Inan, DW Galbraith, RA Bressan, D-J Yun, J-K Zhu, JM Cheeseman, and HJ Bohnert<sup>#</sup> (2010), Genome structures and halophyte-specific gene expression of the extremophile _Thellungiella parvula_ in comparison with _Thellungiella salsuginea_ (_Thellungiella halophila_) and _Arabidopsis_. **_Plant Physiol_** 154:1040-1052 [doi:10.1104/pp.110.163923](https://doi.org/10.1104/pp.110.163923)
 - **D-H Oh**, SY Lee, RA Bressan, D-J Yun, and HJ Bohnert<sup>#</sup> (2010), Intracellular consequences of SOS1 deficiency during salt stress. J Exp Bot 61:1205-1213 [doi:10.1093/jxb/erp391](https://doi.org/10.1093/jxb/erp391)
 
 2009
-- **D-H Oh**, A Zahir, DJ Yun, RA Bressan, HJ Bohnert<sup>#</sup> (2009), SOS1 and halophytism. Plant Signal Behav 4:1081-1083.
-- **D-H Oh**, E Leidi, Q Zhang, S-M Hwang, Y Li, FJ Quintero, X Jiang, MP D’Urzo, SY Lee, Y Zhao, JD Bahk, RA Bressan, D-J Yun, JM Pardo, and HJ Bohnert<sup>#</sup> (2009), Loss of halophytism by interference with SOS1 expression. **_Plant Physiol_** 151:210-222 [doi:10.1104/pp.109.137802](https://doi.org/10.1104/pp.109.137802)
+- **D-H Oh**, A Zahir, DJ Yun, RA Bressan, HJ Bohnert<sup>#</sup> (2009), _SOS1_ and halophytism. **_Plant Signal Behav_** 4:1081-1083.
+- **D-H Oh**, E Leidi, Q Zhang, S-M Hwang, Y Li, FJ Quintero, X Jiang, MP D’Urzo, SY Lee, Y Zhao, JD Bahk, RA Bressan, D-J Yun, JM Pardo, and HJ Bohnert<sup>#</sup> (2009), Loss of halophytism by interference with _SOS1_ expression. **_Plant Physiol_** 151:210-222 [doi:10.1104/pp.109.137802](https://doi.org/10.1104/pp.109.137802)
 
 2009 and before
-- **D-H Oh**, Q Gong, A Ulanov, Q Zhang, Y Li, W Ma, D-J Yun, RA Bressan, and HJ Bohnert<sup>#</sup> (2007), Sodium stress in the halophyte Thellungiella halophila and transcriptional changes in a thsos1-RNA interference line. J Intgr Plant Biol 49:1484-1496
-- **D-H Oh**, CS Kwon, H Sano, WI Chung<sup>#</sup>, N Koizumi<sup>#</sup> (2003), Conservation between animals and plants of the cis-acting element involved in the unfolded protein response. Biochem Biophys Res Commun 301:225-230.
-- **D-H Oh**, KJ Song, YU Shin, WI Chung<sup>#</sup> (2000), Isolation of a cDNA encoding a 31-kDa, pathogenesis-related 5/thaumatin-like (PR5/TL) protein abundantly expressed in apple fruit (Malus domestica cv. Fuji). Biosci Biotechnol Biochem 64:355-362.
+- **D-H Oh**, Q Gong, A Ulanov, Q Zhang, Y Li, W Ma, D-J Yun, RA Bressan, and HJ Bohnert<sup>#</sup> (2007), Sodium stress in the halophyte _Thellungiella halophila_ and transcriptional changes in a _thsos1_-RNA interference line. **_J Intgr Plant Biol_** 49:1484-1496
+- **D-H Oh**, CS Kwon, H Sano, WI Chung<sup>#</sup>, N Koizumi<sup>#</sup> (2003), Conservation between animals and plants of the _cis_-acting element involved in the unfolded protein response. **_Biochem Biophys Res Commun_** 301:225-230.
+- **D-H Oh**, KJ Song, YU Shin, WI Chung<sup>#</sup> (2000), Isolation of a cDNA encoding a 31-kDa, pathogenesis-related 5/thaumatin-like (PR5/TL) protein abundantly expressed in apple fruit (_Malus domestica_ cv. Fuji). **_Biosci Biotechnol Biochem_** 64:355-362.
 
 ### Publications as a co-author 
 (<sup>\*</sup>equal contribution; <sup>#</sup>corresponding author)
@@ -43,43 +43,43 @@ Numbers "cited by" [@Google Scholar](https://scholar.google.com/citations?user=n
 2021 and after
 - K-N Tran<sup>\*</sup>, P Pantha<sup>\*</sup>, G Wang<sup>\*</sup>, N Kumar<sup>\*</sup>, C Wijesinghege, **D-H Oh**, N Duppen, H Li, H Hong, JC Johnson, R Kelt, MG Matherne, A Clement, D Tran, C Crain, P Adhikari, Y Zhang, M Foroozani, G Sessa, JC Larkin, AP Smith, D Longstreth, P Finnegan, C Testerink, S Barak, M Dassanayake<sup>#</sup> (2021) Balancing growth amidst salinity stress-lifestyle perspectives from the extremophyte model _Schrenkiella parvula_. _bioRxiv_ [doi:10.1101/2021.08.27.457575](https://doi.org/10.1101/2021.08.27.457575)
 - P Pantha, **D-H Oh**, D Longstreth, M Dassanayake<sup>#</sup> (2021) Living with high potassium: an asset or a hindrance. _bioRxiv_ [doi:10.1101/2021.07.01.450778](https://doi.org/10.1101/2021.07.01.450778)
-- G Eshel<sup>\*</sup>, N Duppen<sup>\*</sup>, G Wang, **D-H Oh**, Y Kazachkova, P Herzyk, A Amtmann, M Gordon, V Chalifa-Caspi, MO Arland, S Bar-David, A Marshall-Colon, M Dassanayake<sup>#</sup>, S Barak<sup>#</sup> (2021) Positive selection and heat-response transcriptomes reveal adaptive features of the Arabidopsis desert relative, Anastatica hierochuntica. _bioRxiv_ [doi:10.1101/2021.05.23.445339](https://doi.org/10.1101/2021.05.23.445339)
-- G Wang G, SF DiTusa, **D-H Oh**, AD Herrmann, MA O’Neill, AP Smith, M Dassanayake<sup>#</sup> (2021), Cross species multi‐omics reveals cell wall sequestration and elevated global transcript abundance as mechanisms of boron tolerance in plants. **_New Phytol_** 230:1985-2000 [doi:10.1111/nph.17295](https://doi.org/10.1111/nph.17295)
-- P Pantha, S Chalivendra, **D-H Oh**, B Elderd, M Dassanayake<sup>#</sup> (2021), A tale of two transcriptomic responses in agricultural pests via host defenses and viral replication. Int J Mol Sci 22:3568 [doi:10.3390/ijms22073568](https://doi.org/10.3390/ijms22073568)
+- G Eshel<sup>\*</sup>, N Duppen<sup>\*</sup>, G Wang, **D-H Oh**, Y Kazachkova, P Herzyk, A Amtmann, M Gordon, V Chalifa-Caspi, MO Arland, S Bar-David, A Marshall-Colon, M Dassanayake<sup>#</sup>, S Barak<sup>#</sup> (2021) Positive selection and heat-response transcriptomes reveal adaptive features of the _Arabidopsis_ desert relative, _Anastatica hierochuntica_. _bioRxiv_ [doi:10.1101/2021.05.23.445339](https://doi.org/10.1101/2021.05.23.445339)
+- G Wang G, SF DiTusa, **D-H Oh**, AD Herrmann, MA O’Neill, AP Smith, M Dassanayake<sup>#</sup> (2021), Cross species multi-omics reveals cell wall sequestration and elevated global transcript abundance as mechanisms of boron tolerance in plants. **_New Phytol_** 230:1985-2000 [doi:10.1111/nph.17295](https://doi.org/10.1111/nph.17295)
+- P Pantha, S Chalivendra, **D-H Oh**, B Elderd, M Dassanayake<sup>#</sup> (2021), A tale of two transcriptomic responses in agricultural pests via host defenses and viral replication. **_Int J Mol Sci_** 22:3568 [doi:10.3390/ijms22073568](https://doi.org/10.3390/ijms22073568)
 
 2020
-- SY Park, JH Choi, **D-H Oh**, JC Johnson, M Dassanayake, DH Jeong, MH Oh<sup>#</sup> (2020) Genome-wide analysis of brassinosteroid responsive small RNAs in Arabidopsis thaliana. Genes Genomics 42:957-969.
-- G Wang, **D-H Oh**, M Dassanayake<sup>#</sup> (2020), GOMCL: a tool to cluster Gene Ontology based functions. BMC Bioinformatics 21:139 [doi:10.1186/s12859-020-3447-4](https://doi.org/10.1186/s12859-020-3447-4)
+- SY Park, JH Choi, **D-H Oh**, JC Johnson, M Dassanayake, DH Jeong, MH Oh<sup>#</sup> (2020) Genome-wide analysis of brassinosteroid responsive small RNAs in _Arabidopsis thaliana_. **_Genes Genomics_** 42:957-969.
+- G Wang, **D-H Oh**, M Dassanayake<sup>#</sup> (2020), GOMCL: a tool to cluster Gene Ontology based functions. **_BMC Bioinformatics_** 21:139 [doi:10.1186/s12859-020-3447-4](https://doi.org/10.1186/s12859-020-3447-4)
 - M Foroozani, S Zahraeifard, **D-H Oh**, G Wang, M Dassanayake<sup>#</sup>, AP Smith<sup>#</sup> (2020), Low-phosphate chromatin dynamics predict a cell wall remodeling network in rice shoots. **_Plant Physiol_** 182:1494-1509.
-- MV Cruz, GM Mori, **D-H Oh**, M Dassanayake, MI Zucchi, RS Oliveira, AP de Souza<sup>#</sup> (2020), Molecular responses to freshwater limitation in the mangrove tree Avicennia germinans (Acanthaceae). **_Mol Ecol_** 29:344-362.
+- MV Cruz, GM Mori, **D-H Oh**, M Dassanayake, MI Zucchi, RS Oliveira, AP de Souza<sup>#</sup> (2020), Molecular responses to freshwater limitation in the mangrove tree _Avicennia germinans_ (Acanthaceae). **_Mol Ecol_** 29:344-362.
 
 2019
-- MV Cruz, GM Mori, CS Müller, CC da Silva, **D-H Oh**, M Dassanayake, MI Zucchi, RS Oliveira, AP de Souza<sup>#</sup> (2019), Local adaptation of a dominant coastal tree to freshwater availability and solar radiation suggested by genomic and ecophysiological approaches. Sci Rep 9:19936.
+- MV Cruz, GM Mori, CS Müller, CC da Silva, **D-H Oh**, M Dassanayake, MI Zucchi, RS Oliveira, AP de Souza<sup>#</sup> (2019), Local adaptation of a dominant coastal tree to freshwater availability and solar radiation suggested by genomic and ecophysiological approaches. **_Sci Rep_** 9:19936.
 
 2018
-- S Shrestha, **D-H Oh**, JK McKowen, M Dassanayake, CM Hart<sup>#</sup> (2018), 4C-seq characterization of Drosophila BEAF binding regions provides evidence for highly variable long-distance interactions between active chromatin. PLoS One 13:e0203843.
-- S Zahraeifard, M Foroozani, A Sepehri, **D-H Oh**, G Wang, V Mangu, B Chen, N Baisakh, M Dassanayake, AP Smith<sup>#</sup> (2018), Rice H2A.Z negatively regulates genes responsive to nutrient starvation but promotes expression of key housekeeping genes. J Exp Bot 69:4907-4919.
+- S Shrestha, **D-H Oh**, JK McKowen, M Dassanayake, CM Hart<sup>#</sup> (2018), 4C-seq characterization of Drosophila BEAF binding regions provides evidence for highly variable long-distance interactions between active chromatin. **_PLoS One_** 13:e0203843.
+- S Zahraeifard, M Foroozani, A Sepehri, **D-H Oh**, G Wang, V Mangu, B Chen, N Baisakh, M Dassanayake, AP Smith<sup>#</sup> (2018), Rice H2A.Z negatively regulates genes responsive to nutrient starvation but promotes expression of key housekeeping genes. **_J Exp Bot_** 69:4907-4919.
 - R Wu, L Duan, JL Pruneda-Paz, **D-H Oh**, M Pound, S Kay, JR Dinneny<sup>#</sup> (2018), The 6xABRE synthetic promoter enables the spatiotemporal analysis of ABA-mediated transcriptional regulation. **_Plant Physiol_** 177:1650-1665.
-- B Shrestha, **D-H Oh**, M Dassanayake, JH Ham<sup>#</sup> (2018), Analysis of genome sequence variations among three us rice varieties showing differential quantitative disease resistance to bacterial panicle blight and sheath blight. Int J Genom Data Min IJGD-122.
-- Q Zhang, **D-H Oh**, SF DiTusa, MV RamanaRao, N Baisakh, M Dassanayake<sup>#</sup>, AP Smith<sup>#</sup> (2018), Rice nucleosome patterns undergo remodeling coincident with stress-induced gene expression. BMC Genomics 19:97.
+- B Shrestha, **D-H Oh**, M Dassanayake, JH Ham<sup>#</sup> (2018), Analysis of genome sequence variations among three us rice varieties showing differential quantitative disease resistance to bacterial panicle blight and sheath blight. **_Int J Genom Data Min_** IJGD-122.
+- Q Zhang, **D-H Oh**, SF DiTusa, MV RamanaRao, N Baisakh, M Dassanayake<sup>#</sup>, AP Smith<sup>#</sup> (2018), Rice nucleosome patterns undergo remodeling coincident with stress-induced gene expression. **_BMC Genomics_** 19:97.
 
 2017
-- J Park, **D-H Oh**, M Dassanayake, KT Nguyen, J Ogas, G Choi, T Sun<sup>#</sup> (2017), Gibberellin signaling requires chromatin remodeler pickle to promote vegetative growth and phase. **_Plant Physiol_** 173: 1463–1474 [doi:10.1104/pp.16.01471](https://doi.org/10.1104/pp.16.01471)
+- J Park, **D-H Oh**, M Dassanayake, KT Nguyen, J Ogas, G Choi, T Sun<sup>#</sup> (2017), Gibberellin signaling requires chromatin remodeler _pickle_ to promote vegetative growth and phase. **_Plant Physiol_** 173: 1463–1474 [doi:10.1104/pp.16.01471](https://doi.org/10.1104/pp.16.01471)
 
 2016
-- B Lambert, M Dassanayake<sup>#</sup>, **D-H Oh**, SB Garrett, SY Lee, GS Pettis<sup>#</sup> (2016), A novel phase variant of the cholera pathogen shows stress-adaptive cryptic transcriptomic signatures. BMC Genomics 17:914.
+- B Lambert, M Dassanayake<sup>#</sup>, **D-H Oh**, SB Garrett, SY Lee, GS Pettis<sup>#</sup> (2016), A novel phase variant of the cholera pathogen shows stress-adaptive cryptic transcriptomic signatures. **_BMC Genomics_** 17:914.
 - A Ali, N Raddatz, R Aman, S Kim, HC Park, M Jan, D Baek, IU Khan, **D-H Oh**, SY Lee, RA Bressan, KW Lee, A Maggio, JM Pardo, HJ Bohnert, DJ Yun<sup>#</sup> (2016), A single amino acid substitution in the sodium transporter HKT1 associated with plant salt tolerance. **_Plant Physiol_** 171: 2112-2126.
 
 2014
-- Q Wang, CM Nowak, A Korde, **D-H Oh**, MDassanayake, D Donze<sup>#</sup> (2014), Compromised RNA Polymerase III complex assembly leads to local alterations of intergenic RNA Polymerase II transcription in Saccharomyces cerevisiae. BMC Biol 12:89.
-- G Batelli, **D-H Oh**, MP D'Urzo, F Orsini, M Dassanayake, JK Zhu, HJ Bohnert, RA Bressan, A Maggio<sup>#</sup> (2014), Using Arabidopsis-related model species (ARMS): growth, genetic transformation, and comparative genomics. Methods Mol Biol 1062:27-51.
+- Q Wang, CM Nowak, A Korde, **D-H Oh**, MDassanayake, D Donze<sup>#</sup> (2014), Compromised RNA Polymerase III complex assembly leads to local alterations of intergenic RNA Polymerase II transcription in _Saccharomyces cerevisiae_. **_BMC Biol_** 12:89.
+- G Batelli, **D-H Oh**, MP D'Urzo, F Orsini, M Dassanayake, JK Zhu, HJ Bohnert, RA Bressan, A Maggio<sup>#</sup> (2014), Using _Arabidopsis_-related model species (ARMS): growth, genetic transformation, and comparative genomics. **_Methods Mol Biol_** 1062:27-51.
 
 2013 and before
-- JI Kim, D Baek, HC Park, HJ Chun, **D-H Oh**, MK Lee, JY Cha, WY Kim, MC Kim, WC Chung, HJ Bohnert, SY Lee, RA Bressan, SW Lee, DJ Yun<sup>#</sup> (2013), Overexpression of Arabidopsis YUCCA6 in potato results in high-auxin developmental phenotypes and enhanced resistance to water deficit. Mol Plant 6:337-349.
-- RA Bressan, HC Park, F Orsini, **D-H Oh**, M Dassanayake, G Inan, DJ Yun, HJ Bohnert, A Maggio<sup>#</sup> (2013), Biotechnology for mechanisms that counteract salt stress in extremophile species: a genome-based view. Plant Biotechnol Rep 7:27-37
+- JI Kim, D Baek, HC Park, HJ Chun, **D-H Oh**, MK Lee, JY Cha, WY Kim, MC Kim, WC Chung, HJ Bohnert, SY Lee, RA Bressan, SW Lee, DJ Yun<sup>#</sup> (2013), Overexpression of _Arabidopsis YUCCA6_ in potato results in high-auxin developmental phenotypes and enhanced resistance to water deficit. **_Mol Plant_** 6:337-349.
+- RA Bressan, HC Park, F Orsini, **D-H Oh**, M Dassanayake, G Inan, DJ Yun, HJ Bohnert, A Maggio<sup>#</sup> (2013), Biotechnology for mechanisms that counteract salt stress in extremophile species: a genome-based view. **_Plant Biotechnol Rep_** 7:27-37
 - MH Oh, J Sun, **D-H Oh**, RE Zielinski, SD Clouse, SC Huber<sup>#</sup> (2011), Enhancing Arabidopsis leaf growth by engineering the BRASSINOSTEROID INSENSITIVE1 receptor kinase. **_Plant Physiol_** 157:120-131.
-- W Choi, D Baek, **D-H Oh**, J Park, H Hong, WY Kim, HJ Bohnert, RA Bressan, HC Park, DJ Yun (2011), NKS1, Na<sup>+</sup>- and K<sup>+</sup>-sensitive 1, regulates ion homeostasis in an SOS-independent pathway in Arabidopsis. Phytochemistry 72:330-336.
-- M Dassanayake, **D-H Oh**, H Hong, HJ Bohnert, and JM Cheeseman (2011), Transcription strength and halophytic lifestyle. Trends Plant Sci16:1-3.
+- W Choi, D Baek, **D-H Oh**, J Park, H Hong, WY Kim, HJ Bohnert, RA Bressan, HC Park, DJ Yun (2011), NKS1, Na<sup>+</sup>- and K<sup>+</sup>-sensitive 1, regulates ion homeostasis in an _SOS_-independent pathway in _Arabidopsis_. **_Phytochemistry_** 72:330-336.
+- M Dassanayake, **D-H Oh**, H Hong, HJ Bohnert, and JM Cheeseman (2011), Transcription strength and halophytic lifestyle. **_Trends Plant Sci_** 16:1-3.
 - M Dassanayake, **D-H Oh**, D-J Yun, RA Bressan, JM Cheeseman, and HJ Bohnert. “The Scope of Things to Come - New Paradigms in Biotechnology” in: Plant biotechnology 2010: prospects for the 21st Century, eds. PM Hasegawa and A Altman, Elsevier, Amsterdam, Netherland (2011) (Book chapter).
-- F Orsini, MP D’Urzo, G Inan, S Serra, **D-H Oh**, MV Mickelbart, F Consiglio, X Li, JC Jeong, D-J Yun, HJ Bohnert, RA Bressan, and A Maggio<sup>#</sup> (2010), A comparative study of salt tolerance parameters in 11 wild relatives of Arabidopsis thaliana. J Exp Bot 61:3787-3798.
-- SJ Noh, CS Kwon, **D-H Oh**, JS Moon, Chung WI<sup>#</sup> (2003), Expression of an evolutionarily distinct novel BiP gene during the unfolded protein response in Arabidopsis thaliana. Gene 311:81-91.
+- F Orsini, MP D’Urzo, G Inan, S Serra, **D-H Oh**, MV Mickelbart, F Consiglio, X Li, JC Jeong, D-J Yun, HJ Bohnert, RA Bressan, and A Maggio<sup>#</sup> (2010), A comparative study of salt tolerance parameters in 11 wild relatives of _Arabidopsis thaliana_. **_J Exp Bot_** 61:3787-3798.
+- SJ Noh, CS Kwon, **D-H Oh**, JS Moon, Chung WI<sup>#</sup> (2003), Expression of an evolutionarily distinct novel _BiP_ gene during the unfolded protein response in _Arabidopsis thaliana_. **_Gene_** 311:81-91.
