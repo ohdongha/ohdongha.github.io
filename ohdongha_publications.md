@@ -9,7 +9,7 @@ Numbers "cited by" [@Google Scholar](https://scholar.google.com/citations?user=n
 - **D-H Oh**<sup>#</sup>, KP Kowalski<sup>#</sup>, C Wijesinghege, Q Quach, P Tanford, M Dassanayake<sup>#</sup>, K Clay<sup>#</sup> (2021),  Novel genome characteristics contribute to the invasiveness of _Phragmites australis_ (common reed). **_Mol Ecol_** [doi:10.1111/mec.16293](https://doi.org/10.1111/mec.16293) 
 
 2019
-- **D-H Oh**<sup>#</sup> and M Dassanayake<sup>#</sup> (2019), Landscape of gene transposition-duplication within the Brassicaceae family. **_DNA Res_** 26:21-36 [10.1093/dnares/dsy035](https://doi.org/10.1093/dnares/dsy035)
+- **D-H Oh** <sup>#</sup> and M Dassanayake<sup>#</sup> (2019), Landscape of gene transposition-duplication within the Brassicaceae family. **_DNA Res_** 26:21-36 [10.1093/dnares/dsy035](https://doi.org/10.1093/dnares/dsy035)
 - G Wang, P Pantha, K-N Tran, **D-H Oh**<sup>#</sup>, M Dassanayake<sup>#</sup> (2019), Plant growth and agrobacterium-mediated floral-dip transformation of the extremophyte _Schrenkiella parvula_. **_J Vis Exp_** 143;e58544.
 
 2015
