@@ -23,7 +23,9 @@ Details under construction ...
 
 ___
 ## Random thoughts, interests, and fantasies
+
 <details>
+
 <summary> reveal ... </summary>
 
 - How to identify significant (e.g. adaptive) GRN modifications in recent polyploids (e.g. _Camelina sativa_) compared to their diploid relatives. Or is it even doable/useful?
@@ -35,6 +37,7 @@ ___
 - How would the (epi-)genome of a Tolkeinian elf (e.g. Legolas) be different from human? [#ElvenGenomics](https://twitter.com/inspirace/status/1467178107018915846?s=20)?
 
 </details>
+
 
 ___
 ## [Tools](tools.md)
