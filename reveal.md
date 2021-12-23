@@ -2,7 +2,7 @@
 layout: default_modified
 ---
 
-## Random thoughts, interests, and fantasies
+## Random questions, interests, and fantasies
 
 - What are the better measures of conservation or modification in gene regulation between sets of ortholog pairs, that account for complex expression datasets such as time-series or tissue/cell type-specific expression.
 

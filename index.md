@@ -22,7 +22,7 @@ ___
 Details under construction ...
 
 ___
-## Random thoughts, interests, and fantasies
+## Random questions, interests, and fantasies
 [Reveal](reveal.md) ...
 
 ___
