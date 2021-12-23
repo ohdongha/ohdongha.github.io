@@ -1,6 +1,6 @@
 Research assistant professor working with [Dassanayake lab.@LSU](https://www.lsugenomics.org/). I study plant comparative genomics, especially for those found in "extreme" environments a.k.a. [extremophytes](https://extremeplants.org/what-is-an-extremophyte/).
 
-View my [C.V. (updated Dec. 2021)](Dong-Ha_Oh_CV_2021Dec_full.pdf)
+[View my C.V. (updated Dec. 2021)](Dong-Ha_Oh_CV_2021Dec_full.pdf)
 
 # Research
 - Comparative genomics of [_Schrenkiella parvula_](https://extremeplants.org/species/schrenkiella-parvula/?ms=halophytes) and [_Eutrema salsugineum_](https://extremeplants.org/species/eutrema-salsugineum/?ms=halophytes), extreme stress-adapted relatives of _Arabidopsis_ and Brassicaceae crops (e.g. Camelina, canola, and other Brassica crops)
