@@ -69,7 +69,7 @@ See numbers "cited by" [@Google Scholar](https://scholar.google.com/citations?us
 - A Ali, N Raddatz, R Aman, S Kim, HC Park, M Jan, D Baek, IU Khan, <u>D-H Oh</u>, SY Lee, RA Bressan, KW Lee, A Maggio, JM Pardo, HJ Bohnert, DJ Yun (2016), **A single amino acid substitution in the sodium transporter HKT1 associated with plant salt tolerance.** _Plant Physiol_ 171: 2112-2126.
 
 2014
-- Q Wang, CM Nowak, A Korde, <u>D-H Oh</u>, MDassanayake, D Donze (2014), **Compromised RNA Polymerase III complex assembly leads to local alterations of intergenic RNA Polymerase II transcription in _Saccharomyces cerevisiae_.** _BMC Biol_ 12:89.
+- Q Wang, CM Nowak, A Korde, <u>D-H Oh</u>, M Dassanayake, D Donze (2014), **Compromised RNA Polymerase III complex assembly leads to local alterations of intergenic RNA Polymerase II transcription in _Saccharomyces cerevisiae_.** _BMC Biol_ 12:89.
 - G Batelli, <u>D-H Oh</u>, MP D'Urzo, F Orsini, M Dassanayake, JK Zhu, HJ Bohnert, RA Bressan, A Maggio (2014), **Using _Arabidopsis_-related model species (ARMS): growth, genetic transformation, and comparative genomics.** _Methods Mol Biol_ 1062:27-51.
 
 2013 and before
