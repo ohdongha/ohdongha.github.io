@@ -1,3 +1,6 @@
+---
+layout: default2
+---
 Research assistant professor working with [Dassanayake lab.@LSU](https://www.lsugenomics.org/). I study plant comparative genomics, especially for those found in "extreme" environments a.k.a. [extremophytes](https://extremeplants.org/what-is-an-extremophyte/).
 
 [View my C.V. (updated Dec. 2021)](Dong-Ha_Oh_CV_2021Dec_full.pdf)
