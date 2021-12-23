@@ -5,7 +5,7 @@ Research assistant professor working with [Dassanayake lab.@LSU](https://www.lsu
 
 ## News 
 
-- 2021-11-28: The first draft genome of _Phragmites australis_ (common reed) was published in [_Mol Ecol_](https://doi.org/10.1111/mec.16293) :) Fun collaboration with researchers from Tulane Univ. and USGS. Next is chromosome-level assemblies of both native and invasive (in North America) subspecies and more comparative genomics of _Phragmites_ invasion.
+- 2021-11-28: The first draft genome of _Phragmites australis_ (common reed) was published in [_Mol Ecol_](https://doi.org/10.1111/mec.16293) :) Fun collaboration with researchers from Tulane Univ. and USGS. Next: chromosome-level assemblies of both native and invasive (in North America) subspecies and more comparative genomics of _Phragmites_ invasion.
 
 ## Current interests and fantasies
 
