@@ -15,7 +15,7 @@ Details under construction ...
 - [Genome toolbox](https://github.com/ohdongha/Genome-Toolbox): small python scripts useful for manipulating genome assembly (.fa) and annotation (.gtf) files
 - PiP (under construction): an attempt to identify functions and gene sets (e.g. Gene Ontology terms) that underwent lineage(s)-specific modifications in gene expression/regulation among multiple species, by performing Phylogenetically-informed Profiling (PiP) of gene sets.
 
-# [Publications](ohdongha_publications.md)
+# [Publications](publications.md)
 
 # Grants and awards
 Under construction ...
