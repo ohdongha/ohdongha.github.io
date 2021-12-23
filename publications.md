@@ -87,3 +87,5 @@ ___
 - M Dassanayake, <u>D-H Oh</u>, D-J Yun, RA Bressan, JM Cheeseman, and HJ Bohnert. “**The Scope of Things to Come - New Paradigms in Biotechnology**" in: Plant biotechnology 2010: prospects for the 21st Century, eds. PM Hasegawa and A Altman, Elsevier, Amsterdam, Netherland (2011) (Book chapter).
 - F Orsini, MP D’Urzo, G Inan, S Serra, <u>D-H Oh</u>, MV Mickelbart, F Consiglio, X Li, JC Jeong, D-J Yun, HJ Bohnert, RA Bressan, and A Maggio (2010), **A comparative study of salt tolerance parameters in 11 wild relatives of _Arabidopsis thaliana_.** _J Exp Bot_ 61:3787-3798.
 - SJ Noh, CS Kwon, <u>D-H Oh</u>, JS Moon, Chung WI (2003), **Expression of an evolutionarily distinct novel _BiP_ gene during the unfolded protein response in _Arabidopsis thaliana_.** _Gene_ 311:81-91.
+
+Always click the large [Dong-Ha Oh](index.md) to go back to main index

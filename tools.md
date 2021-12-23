@@ -17,3 +17,5 @@ Each link leads to the GitHub repository for the tool.
 ### PiP (under construction)
 - An attempt to identify functions and gene sets (e.g. Gene Ontology terms) that underwent lineage(s)-specific modifications in gene expression/regulation among multiple species, by performing Phylogenetically-informed Profiling (PiP) of gene sets. 
 - The matrice of presence and absence of positive corrleation between all pairs of species are superimposed to the species tree, for all gene sets. Variance of correlations are then ranked to find out the most significant modifications. 
+
+Always click the large [Dong-Ha Oh](index.md) to go back to main index
