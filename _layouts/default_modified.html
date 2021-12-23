@@ -21,8 +21,10 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" width="100" height="100"/>
         {% endif %}
-        
+
+        <!-- suppess site.description
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+        -->
         
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
