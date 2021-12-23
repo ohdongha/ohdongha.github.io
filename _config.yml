@@ -3,7 +3,8 @@ title: Dong-Ha Oh
 logo: /assets/img/ohdongha_logo.jpg
 #description: plant abiotic stress response; comparative genomics; extremophyte genomics; invasive genomics; co-linearity / synteny; gene regulatory network (GRN); GRN evolution
 
-# trying to fix markdown in a <details> block; see https://github.com/gettalong/kramdown/issues/155#issuecomment-339402782 )
-markdown: kramdown
-kramdown:
-  parse_block_html: true
+## trying to fix markdown in a <details> block; see https://github.com/gettalong/kramdown/issues/155#issuecomment-339402782 )
+#markdown: kramdown
+#kramdown:
+#  parse_block_html: true
+## this did not work; let's try https://www.tomordonez.com/jekyll-text-expand-collapsible-markdown/
