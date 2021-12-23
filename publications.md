@@ -1,3 +1,7 @@
+---
+layout: default_modified
+---
+
 # Publications
 See numbers "cited by" [@Google Scholar](https://scholar.google.com/citations?user=nueqysEAAAAJ&hl=en)
 
