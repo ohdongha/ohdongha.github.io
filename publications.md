@@ -18,13 +18,13 @@ See numbers "cited by" [@Google Scholar](https://scholar.google.com/citations?us
 2014
 - <u>D-H Oh</u><sup>\*</sup>, H Hong<sup>\*</sup>, SYLee, D-J Yun, HJ Bohnert, M Dassanayake (2014), **Genome structures and transcriptomes signify niche adaptation for the multi-ion tolerant extremophyte _Schrenkiella parvula_.** _Plant Physiol_ 164:2123-2138 [doi:10.1104/pp.113.233551](https://doi.org/10.1104/pp.113.233551)
 
-2010-2012: Genome analysis of the halophyte/extremophyte, _Thellugiella parvula_ (syn. _Schrenkiellar parvula_) and _Thellugiella salsuginea_(syn. _Eutrema salsugineum))
+2010-2012: Genome analysis of the halophyte/extremophyte, _Thellugiella parvula_ (syn. _Schrenkiellar parvula_) and _Thellugiella salsuginea_ (syn. _Eutrema salsugineum))
 - H-J Wu<sup>\*</sup>, Z Zhang<sup>\*</sup>, J-Y Wang<sup>\*</sup>, <u>D-H Oh</u><sup>\*</sup>, M Dassanayake<sup>\*</sup>, B Liu<sup>\*</sup>, Q Huang<sup>\*</sup>, HX Sun, R Xia, Y Wu, Y Wang, Z Yang, Y Liu, W Zhang, H Zhang, J Chu, C Yan, S Fang, J Zhang, Y Wang, F Zhang, G Wang, SY Lee, JM Cheeseman, B Yang, B Li, J Min, L Yang, J Wang, C Chu, SY Chen, HJ Bohnert, JK Zhu, XJ Wang, Q Xie (2012), **Insights into salt tolerance from the genome of _Thellungiella salsuginea_.** _Proc Natl Acad Sci USA_ 109:12219-12224 [doi:10.1073/pnas.1209954109](https://doi.org/10.1073/pnas.1209954109)
 - <u>D-H Oh</u><sup>\*</sup>, M Dassanayake<sup>\*</sup>, HJ Bohnert and JM Cheeseman (2012), **Life in the extreme: lessons from genomics.** _Genome Biol_ 13:241 [doi:10.1186/gb4003](https://doi.org/10.1186/gb4003)
 - M Dassanayake<sup>\*</sup>, <u>D-H Oh</u><sup>\*</sup>, JS Haas, A Hernandez, H Hong, S Ali, D-J Yun, RA Bressan, J-K Zhu, HJ Bohnert and JM Cheeseman (2011), **The genome of the extremophile crucifer _Thellungiella parvula_.** _Nat Genet_ 43:913-918 [doi:10.1038/ng.889](https://doi.org/10.1038/ng.889)
 - <u>D-H Oh</u><sup>\*</sup>, M Dassanayake<sup>\*</sup>, JS Haas, A Kropornicka, C Wright, MP D’Urzo, H Hong, S Ali, A Hernandez, GM Lambert, G Inan, DW Galbraith, RA Bressan, D-J Yun, J-K Zhu, JM Cheeseman, and HJ Bohnert (2010), **Genome structures and halophyte-specific gene expression of the extremophile _Thellungiella parvula_ in comparison with _Thellungiella salsuginea_ (_Thellungiella halophila_) and _Arabidopsis_.** _Plant Physiol_ 154:1040-1052 [doi:10.1104/pp.110.163923](https://doi.org/10.1104/pp.110.163923)
 
-2007-2012: Studies on _SOS1_ (_Salt-Overly-Sensitive 1_) and _HKT1_ (_high-affinity K<sup>+</sup> transporter 1_) orthologs in the halophyte _T. salsuginea_(syn. _E. salsugineum))
+2007-2012: Studies on _SOS1_ (_Salt-Overly-Sensitive 1_) and _HKT1_ (_high-affinity K<sup>+</sup> transporter 1_) orthologs in the halophyte _T. salsuginea_ (syn. _E. salsugineum))
 - Z Ali<sup>\*</sup>, A Ali<sup>\*</sup>, HC Park<sup>\*</sup>, <u>D-H Oh</u><sup>\*</sup>, R Aman, A Kropornicka, H Hong, RA Bressan, HJ Bohnert, W-Y Kim, SY Lee, and D-J Yun (2012), **TsHKT1;2, a HKT1 homolog from the extremophile _Arabidopsis_-relative _Thellungiella salsuginea_, shows K<sup>+</sup>-specificity in the presence of NaCl.** _Plant Physiol_ 158:1463-1474. [doi:10.1104/pp.111.193110](https://doi.org/10.1104/pp.111.193110)
 - <u>D-H Oh</u>, SY Lee, RA Bressan, D-J Yun, and HJ Bohnert (2010), **Intracellular consequences of SOS1 deficiency during salt stress.** _J Exp Bot_ 61:1205-1213 [doi:10.1093/jxb/erp391](https://doi.org/10.1093/jxb/erp391)
 - <u>D-H Oh</u>, A Zahir, DJ Yun, RA Bressan, HJ Bohnert (2009), **_SOS1_ and halophytism.** _Plant Signal Behav_ 4:1081-1083.
@@ -35,7 +35,7 @@ See numbers "cited by" [@Google Scholar](https://scholar.google.com/citations?us
 - <u>D-H Oh</u>, CS Kwon, H Sano, WI Chung, N Koizumi (2003), **Conservation between animals and plants of the _cis_-acting element involved in the unfolded protein response.** _Biochem Biophys Res Commun_ 301:225-230.
 - <u>D-H Oh</u>, KJ Song, YU Shin, WI Chung (2000), **Isolation of a cDNA encoding a 31-kDa, pathogenesis-related 5/thaumatin-like (PR5/TL) protein abundantly expressed in apple fruit (_Malus domestica_ cv. Fuji).** _Biosci Biotechnol Biochem_ 64:355-362.
 
-## Publications as a co-author (collaborative works) 
+## Publications as a co-author
 (<sup>\*</sup>equal contribution; underlined=me)
 
 2021 and after
