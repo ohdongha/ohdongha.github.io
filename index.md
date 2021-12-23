@@ -32,7 +32,8 @@ ___
 
 - A reference genome can be a chimera of haplotypes and whatnot, if the source is not only heterogygous but also heterogeneous (e.g. ecological samples). Would it be more useful as a reference to allow "wobble" nucleotides (then how about SVs ...)?
 
-- How would the (epi-)genome of a Tolkeinian elf (e.g. Legolas) be different from human? [#ElvenGenomics](https://twitter.com/inspirace/status/1467178107018915846?s=20)?     
+- How would the (epi-)genome of a Tolkeinian elf (e.g. Legolas) be different from human? [#ElvenGenomics](https://twitter.com/inspirace/status/1467178107018915846?s=20)?
+
 </details>
 
 ___
