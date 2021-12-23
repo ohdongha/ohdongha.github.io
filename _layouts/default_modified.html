@@ -15,11 +15,11 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1><p style="text-align:center;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></p></h1>
 
         <!-- reduce size of the logo -->
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" width="137" height="137"/>
+          <p style="text-align:center;"><img src="{{site.logo | relative_url}}" alt="Logo" width="137" height="137"/></p>
         {% endif %}
 
         <!-- suppess site.description
@@ -31,7 +31,7 @@
         {% endif %}
         
         <!-- adding C.V. to the header -->
-        <p class="view"><a href="https://ohdongha.github.io/Dong-Ha_Oh_CV_2021Dec_full.pdf">C.V. (Dec. 2021)</a></p>
+        <p style="text-align:center;" class="view"><a href="https://ohdongha.github.io/Dong-Ha_Oh_CV_2021Dec_full.pdf">C.V. (Dec. 2021)</a></p>
         
         <!-- suppress the GitHub profile, since the "Tools" page will anyway link to github
         {% if site.github.is_user_page %}
