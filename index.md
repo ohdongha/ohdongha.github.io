@@ -4,8 +4,8 @@ View my [C.V. (updated Dec. 2021)](Dong-Ha_Oh_CV_2021Dec_full.pdf)
 
 # Research
 - Comparative genomics of [_Schrenkiella parvula_](https://extremeplants.org/species/schrenkiella-parvula/?ms=halophytes) and [_Eutrema salsugineum_](https://extremeplants.org/species/eutrema-salsugineum/?ms=halophytes), extreme stress-adapted relatives of _Arabidopsis_ and Brassicaceae crops (e.g. Camelina, canola, and other Brassica crops)
-- Comparative genomics of invasive and native [_Phragmites australis_ (common reed)](https://nas.er.usgs.gov/queries/greatlakes/FactSheet.aspx?Species_ID=2937) in North America 
-- Comparative genomics of seagrass _Halophila stipulacea_ and its freshwater relative _Vallisneria americana_
+- Comparative genomics of [invasive and native _Phragmites australis_ (common reed) in North America](https://nas.er.usgs.gov/queries/greatlakes/FactSheet.aspx?Species_ID=2937)
+- Comparative genomics of seagrass [_Halophila stipulacea_](https://www.gidon-winters.com/research) and its freshwater relative [_Vallisneria americana_](https://plants.ifas.ufl.edu/plant-directory/vallisneria-americana/)
 - Developing tools to systemetically detect lineage(s)-specific modifications in gene copy numbers and gene regulatory networks (GRNs)
 
 Details under construction ...
