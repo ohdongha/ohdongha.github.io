@@ -4,7 +4,7 @@ layout: default_modified
 
 ## Random thoughts, interests, and fantasies
 
-- What are the better measures of conservation or modification in gene regulation between sets of ortholog pairs, that accounts for complex expression datasets such as time-series or tissue/cell type-specific expression.
+- What are the better measures of conservation or modification in gene regulation between sets of ortholog pairs, that account for complex expression datasets such as time-series or tissue/cell type-specific expression.
 
 - How to identify significant (e.g. adaptive) GRN modifications from background divergence derived from genetic drift.
 
