@@ -1,7 +1,7 @@
 ---
 layout: default_modified
 ---
-Research assistant professor working with [Dassanayake lab.@LSU](https://www.lsugenomics.org/). I study plant comparative genomics, especially for those found in "extreme" environments a.k.a. [extremophytes](https://extremeplants.org/what-is-an-extremophyte/).
+Assistant research professor working with [Dassanayake lab.@LSU](https://www.lsugenomics.org/). I study plant comparative genomics, especially for those found in "extreme" environments a.k.a. [extremophytes](https://extremeplants.org/what-is-an-extremophyte/).
 
 ___
 ## News 

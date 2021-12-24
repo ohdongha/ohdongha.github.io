@@ -36,7 +36,7 @@ ___
 - <u>D-H Oh</u>, E Leidi, Q Zhang, S-M Hwang, Y Li, FJ Quintero, X Jiang, MP D’Urzo, SY Lee, Y Zhao, JD Bahk, RA Bressan, D-J Yun, JM Pardo, and HJ Bohnert (2009), **Loss of halophytism by interference with _SOS1_ expression.** _Plant Physiol_ 151:210-222 [doi:10.1104/pp.109.137802](https://doi.org/10.1104/pp.109.137802)
 - <u>D-H Oh</u>, Q Gong, A Ulanov, Q Zhang, Y Li, W Ma, D-J Yun, RA Bressan, and HJ Bohnert (2007), **Sodium stress in the halophyte _Thellungiella halophila_ and transcriptional changes in a _thsos1_-RNA interference line.** _J Intgr Plant Biol_ 49:1484-1496
 
-2003 and before, during the PhD program (@KAIST) 
+2003 and before (during the PhD@KAIST) 
 - <u>D-H Oh</u>, CS Kwon, H Sano, WI Chung, N Koizumi (2003), **Conservation between animals and plants of the _cis_-acting element involved in the unfolded protein response.** _Biochem Biophys Res Commun_ 301:225-230.
 - <u>D-H Oh</u>, KJ Song, YU Shin, WI Chung (2000), **Isolation of a cDNA encoding a 31-kDa, pathogenesis-related 5/thaumatin-like (PR5/TL) protein abundantly expressed in apple fruit (_Malus domestica_ cv. Fuji).** _Biosci Biotechnol Biochem_ 64:355-362.
 
@@ -78,7 +78,7 @@ ___
 - Q Wang, CM Nowak, A Korde, <u>D-H Oh</u>, M Dassanayake, D Donze (2014), **Compromised RNA Polymerase III complex assembly leads to local alterations of intergenic RNA Polymerase II transcription in _Saccharomyces cerevisiae_.** _BMC Biol_ 12:89.
 - G Batelli, <u>D-H Oh</u>, MP D'Urzo, F Orsini, M Dassanayake, JK Zhu, HJ Bohnert, RA Bressan, A Maggio (2014), **Using _Arabidopsis_-related model species (ARMS): growth, genetic transformation, and comparative genomics.** _Methods Mol Biol_ 1062:27-51.
 
-2013 and before
+2013 and before (before joining LSU)
 - JI Kim, D Baek, HC Park, HJ Chun, <u>D-H Oh</u>, MK Lee, JY Cha, WY Kim, MC Kim, WC Chung, HJ Bohnert, SY Lee, RA Bressan, SW Lee, DJ Yun (2013), **Overexpression of _Arabidopsis YUCCA6_ in potato results in high-auxin developmental phenotypes and enhanced resistance to water deficit.** _Mol Plant_ 6:337-349.
 - RA Bressan, HC Park, F Orsini, <u>D-H Oh</u>, M Dassanayake, G Inan, DJ Yun, HJ Bohnert, A Maggio (2013), **Biotechnology for mechanisms that counteract salt stress in extremophile species: a genome-based view.** _Plant Biotechnol Rep_ 7:27-37
 - MH Oh, J Sun, <u>D-H Oh</u>, RE Zielinski, SD Clouse, SC Huber (2011), **Enhancing Arabidopsis leaf growth by engineering the BRASSINOSTEROID INSENSITIVE1 receptor kinase.** _Plant Physiol_ 157:120-131.
