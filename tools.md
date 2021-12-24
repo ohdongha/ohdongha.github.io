@@ -12,7 +12,7 @@ Each link leads to the GitHub repository for the tool.
  
 ### [Genome toolbox](https://github.com/ohdongha/Genome-Toolbox)
 - Python scripts for exploring and fixing genome assembly (.fa) and annotation (.gtf).
-- Useful if you want to remove chunks in the middle of sequences when there is a gene model annotation (.gtf), cluster gene models from the same locus (i.e. isoforms) and select, for example, those coding for longest ORFs as "primary" gene models, find all sequence elements (defined as regex) in a genome, etc.
+- Useful if you want to (1) remove chunks in the middle of sequences when there is a gene model annotation (.gtf); (2) rename `transcript_id`, `gene_id`, and `gene_name` fields in a .gtf for all features; (3) cluster gene models from the same locus (i.e. isoforms) and select, for example, those coding for longest ORFs as "primary" gene models; (4) extract sequences for genomic regions (e.g. promoters); (5) find all sequence elements (defined as regex) in a genome; and more.
   
 ### PiP (under construction)
 - An attempt to identify functions and gene sets (e.g. Gene Ontology terms) that underwent lineage(s)-specific modifications in gene expression/regulation among multiple species, by performing Phylogenetically-informed Profiling (PiP) of gene sets. 
