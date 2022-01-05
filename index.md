@@ -6,6 +6,8 @@ Assistant research professor working with [Dassanayake lab.@LSU](https://www.lsu
 ___
 ## News 
 
+- 2022-01-10: I presented [Phylogenetically infomred Profiling (PiP)](https://pag.confex.com/pag/xxix/meetingapp.cgi/Paper/43553), an attempt to identify lineage(s)-specific modifications in gene regulation among multiple species, at the Arabidopsis Informatics workshop in the "virtual" Plant & Animal Genome Conference (PAGXXIX). I will upload the "un-cut" version of the video (when I have time...)
+
 - 2021-11-28: The first draft genome of _Phragmites australis_ (common reed) was published in [_Mol Ecol_](https://doi.org/10.1111/mec.16293) :) Fun collaboration with researchers from Tulane Univ. and USGS. Next: chromosome-level assemblies of both native and invasive (in North America) subspecies and more comparative genomics of _Phragmites_ invasion.
 
 ___
