@@ -13,7 +13,7 @@ ___
 ___
 ## Research
 
-- Comparative genomics of [_Schrenkiella parvula_](https://extremeplants.org/species/schrenkiella-parvula/?ms=halophytes) and [_Eutrema salsugineum_](https://extremeplants.org/species/eutrema-salsugineum/?ms=halophytes), extreme stress-adapted relatives of _Arabidopsis_ ([3-species circos](/assets/img/AtEsSp_circos.png)) and Brassicaceae crops (e.g. Camelina, canola, and other Brassica crops)
+- Comparative genomics of [_Schrenkiella parvula_](https://extremeplants.org/species/schrenkiella-parvula/?ms=halophytes) and [_Eutrema salsugineum_](https://extremeplants.org/species/eutrema-salsugineum/?ms=halophytes), extreme stress-adapted relatives of _Arabidopsis_ and Brassicaceae crops (e.g. Camelina, canola, and other Brassica crops) ([see target species](/assets/img/DOE_11crucifers_tree.png))
 
 - Comparative genomics of [invasive and native _Phragmites australis_ (common reed) in North America](https://nas.er.usgs.gov/queries/greatlakes/FactSheet.aspx?Species_ID=2937)
 
