@@ -93,4 +93,5 @@ Preprints
 - F Orsini, MP D’Urzo, G Inan, S Serra, <u>D-H Oh</u>, MV Mickelbart, F Consiglio, X Li, JC Jeong, D-J Yun, HJ Bohnert, RA Bressan, and A Maggio (2010), **A comparative study of salt tolerance parameters in 11 wild relatives of _Arabidopsis thaliana_.** _J Exp Bot_ 61:37<area>87–3798.
 - SJ Noh, CS Kwon, <u>D-H Oh</u>, JS Moon, Chung WI (2003), **Expression of an evolutionarily distinct novel _BiP_ gene during the unfolded protein response in _Arabidopsis thaliana_.** _Gene_ 311:81–91.
 
+___
 Always click the large [Dong-Ha Oh](index.md) to go back to main index

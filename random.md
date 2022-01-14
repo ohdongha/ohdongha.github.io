@@ -2,7 +2,10 @@
 layout: default_modified
 ---
 
-## Random questions, interests, and fantasies
+# Random questions and fantasies
+
+___
+### 2022 Jan.
 
 - What are the better measures of conservation or modification in gene regulation between sets of ortholog pairs, that account for complex expression datasets such as time-series or tissue/cell type-specific expression.
 
@@ -16,4 +19,5 @@ layout: default_modified
 
 - How would the (epi-)genome of a Tolkeinian elf (e.g. Legolas) be different from human? [#ElvenGenomics](https://twitter.com/inspirace/status/1467178107018915846?s=20)?
 
+___
 Always click the large [Dong-Ha Oh](index.md) to go back to main index

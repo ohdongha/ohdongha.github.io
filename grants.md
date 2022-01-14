@@ -4,6 +4,14 @@ layout: default_modified
 
 # Grants
 ___
+## Pending and in preparation
+(current status; PI; my role)
+
+-	2024 –  : **Using an evolutionary perspective to discover and predict stress-associated gene functions in the Brassicaceae family** (_in prep._; José Dinneny, Stanford Univ.; Co-Investigator) 
+
+-	2023 – 	: **The invasive European Frog-bit (_Hydrocharis morsus-ranae_ L.) genome project** (_pending_; Kurt Kowalski, U.S. Geological Survey; Key personnel)
+
+___
 ## Awarded 
 (amount awarded; PI; my role)
 
@@ -28,11 +36,4 @@ ___
 -	2013 – 2017	: RDA-Biogreen 21, South Korea; **Genomic variations for stress adaptation in extremophyte wild-relatives of crops** ($300,000; Sang-Yul Lee, Gyeongsang National University, S. Korea; International collaborator)
 
 ___
-## Pending and in preparation
-(current status; PI; my role)
-
--	2024 –  : **Using an evolutionary perspective to discover and predict stress-associated gene functions in the Brassicaceae family** (_in prep._; José Dinneny, Stanford Univ.; Co-Investigator) 
-
--	2023 – 	: **The invasive European Frog-bit (_Hydrocharis morsus-ranae_ L.) genome project** (_pending_; Kurt Kowalski, U.S. Geological Survey; Key personnel)
-
 Always click the large [Dong-Ha Oh](index.md) to go back to main index

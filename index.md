@@ -6,9 +6,9 @@ Assistant research professor working with [Dassanayake lab.@LSU](https://www.lsu
 ___
 ## News 
 
-- 2022-01-10: I presented [Phylogenetically infomred Profiling (PiP)](https://pag.confex.com/pag/xxix/meetingapp.cgi/Paper/43553), an attempt to identify lineage(s)-specific modifications in gene regulation among multiple species, at the Arabidopsis Informatics workshop in the "virtual" Plant & Animal Genome Conference (PAGXXIX). I will upload the "un-cut" version of the video (when I have time...)
+- 2022-01-10: I presented [Phylogenetically informed Profiling (PiP)](https://pag.confex.com/pag/xxix/meetingapp.cgi/Paper/43553), an attempt to identify functions with lineage(s)-specific GRN modifications, at the "virtual" Plant & Animal Genome Conference (PAGXXIX), Arabidopsis Informatics workshop. (re-recorded talk in preparation)
 
-- 2021-11-28: The first draft genome of _Phragmites australis_ (common reed) was published in [_Mol Ecol_](https://doi.org/10.1111/mec.16293) :) Fun collaboration with researchers from Tulane Univ. and USGS. Next: chromosome-level assemblies of both native and invasive (in North America) subspecies and more comparative genomics of _Phragmites_ invasion.
+- 2021-11-28: The [first draft genome of _Phragmites australis_ (common reed)](https://genomevolution.org/coge/GenomeInfo.pl?gid=59768) was published in [_Mol Ecol_](https://doi.org/10.1111/mec.16293) :) Fun collaboration with researchers from Tulane Univ. and USGS. Next: chromosome-level assemblies of both native and invasive (in North America) subspecies and more comparative genomics of _Phragmites_ invasion.
 
 ___
 ## Research
@@ -21,12 +21,6 @@ ___
 
 - Developing tools to systemetically detect lineage(s)-specific modifications in gene copy numbers and gene regulatory networks (GRNs)
 
-Details under construction ...
-
-___
-## Random questions, interests, and fantasies
-- [Reveal](reveal.md) ...
-
 ___
 ## [Tools](tools.md)
 
@@ -35,3 +29,10 @@ ___
 
 ___
 ## [Grants](grants.md)
+
+___
+## [Random questions and fantasies](random.md)
+
+___
+## Contact
+- ohdongha at gmail or see C.V. for email links
