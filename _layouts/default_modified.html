@@ -19,7 +19,7 @@
 
         <!-- reduce size of the logo -->
         {% if site.logo %}
-          <p style="text-align:center;"><img src="{{site.logo | relative_url}}" alt="Logo" width="109" height="109"/></p>
+          <p style="text-align:center;display:block;margin-bottom:0;"><img src="{{site.logo | relative_url}}" alt="Logo" width="109" height="109"/></p>
         {% endif %}
 
         <!-- suppess site.description
@@ -30,9 +30,13 @@
         -->
         
         <!-- adding C.V. to the header -->
-        <p style="text-align:center;" class="view"><a href="https://ohdongha.github.io/Dong-Ha_Oh_CV_full.pdf"><i>Curriculum vitae</i>  </a>
+        <p style="text-align:center" class="view"><a href="https://ohdongha.github.io/Dong-Ha_Oh_CV_full.pdf">C.V. </a> and 
         <!-- adding link to twitter -->
-		<a href="https://twitter.com/inspirace"><img alt="Twitter_icon" src="assets/icon/twitter.png" class="inline" width="12" height="12"></a></p>
+		<a href="https://twitter.com/inspirace">Twitter</a></p>
+		<!-- adding link to twitter alternative (using the Logo)
+		<a href="https://twitter.com/inspirace"><img alt="Twitter_icon" src="assets/icon/twitter.png" class="inline" width="32" height="32"></a></p>
+        --->
+		
         <!-- suppress the GitHub profile, since the "Tools" page will anyway link to github
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">GitHub profile</a></p>
