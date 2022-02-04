@@ -12,8 +12,8 @@ ___
 Preprints
 - Y Sun<sup>\*</sup>, <u>D-H Oh</u><sup>\*</sup>, L Duan, P Ramachandran, A Bartlett, M Dassanayake, JR Dinneny (2021), **Divergence in a stress regulatory network underlies differential growth control.** _bioRxiv_ [doi:10.1101/2020.11.18.349449](https://doi.org/10.1101/2020.11.18.349449)
 
-2021
-- <u>D-H Oh</u>, KP Kowalski, C Wijesinghege, Q Quach, P Tanford, M Dassanayake, K Clay (2021),  **Novel genome characteristics contribute to the invasiveness of _Phragmites australis_ (common reed).** _Mol Ecol_ [doi:10.1111/mec.16293](https://doi.org/10.1111/mec.16293) 
+2022
+- <u>D-H Oh</u>, KP Kowalski, C Wijesinghege, Q Quach, P Tanford, M Dassanayake, K Clay (2021),  **Novel genome characteristics contribute to the invasiveness of _Phragmites australis_ (common reed).** _Mol Ecol_ 31:11<area>42-1159 [doi:10.1111/mec.16293](https://doi.org/10.1111/mec.16293) 
 
 2019
 - <u>D-H Oh</u> and M Dassanayake (2019), **Landscape of gene transposition-duplication within the Brassicaceae family.** _DNA Res_ 26:21-36 [doi:10.1093/dnares/dsy035](https://doi.org/10.1093/dnares/dsy035)
