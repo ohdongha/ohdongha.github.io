@@ -2,7 +2,7 @@
 layout: default_modified
 ---
 
-# Random questions and fantasies
+# Random questions
 
 ___
 ### 2022 Feb.

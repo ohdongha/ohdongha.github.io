@@ -2,7 +2,7 @@
 layout: default_modified
 ---
 
-# Random questions and fantasies
+# Random questions
 
 ## Potentially relevant readings
 ___

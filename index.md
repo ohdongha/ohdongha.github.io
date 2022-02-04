@@ -31,7 +31,7 @@ ___
 ## [Grants](grants.md)
 
 ___
-## [Random questions and fantasies](random.md)
+## [Random questions](random.md)
 
 ___
 ## Contact
