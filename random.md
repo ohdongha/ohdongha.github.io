@@ -9,6 +9,7 @@ ___
 
 - How much are _trans_-acting enhancers responsible for regulating widely conserved functions (e.g. essential and house-keepting)? In a species with a recent expansion of TEs (and a larger genome size), will such enhancer regions still conserved in sequences but regulating from a longer distance?
 
+___
 ### 2022 Jan.
 
 - What are the better measures of conservation or modification in gene regulation between sets of ortholog pairs, that account for complex expression datasets such as time-series or tissue/cell type-specific expression? ([potentially relavent readings](relevant_1.md))
