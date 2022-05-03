@@ -14,7 +14,8 @@ ___
 - The matrice of presence and absence of positive corrleation between all pairs of species are superimposed to the species tree, for all gene sets. Variance of correlations are then ranked to find out the most significant modifications.
 
 <details markdown=1><summary markdown="span"> Publication </summary>
-- Y Sun<sup>\*</sup>, <u>D-H Oh</u><sup>\*</sup>, L Duan, P Ramachandran, A Bartlett, K-N Tran, G Wang, M Dassanayake, JR Dinneny (2022), **Divergence in a stress regulatory network underlies differential growth control.** _Nat Plants_ in press (_bioRxiv_ [doi:10.1101/2020.11.18.349449](https://doi.org/10.1101/2020.11.18.349449){:target="_blank"} )
+- Y Sun<sup>\*</sup>, <u>D-H Oh</u><sup>\*</sup>, L Duan, P Ramachandran, A Bartlett, K-N Tran, G Wang, M Dassanayake, JR Dinneny (2022), **Divergence in a stress regulatory network underlies differential growth control.** _Nat Plants_ [doi:doi.org/10.1038/s41477-022-01139-5](https://doi.org/10.1038/s41477-022-01139-5){:target="_blank"}
+(<sup>\*</sup>equal contribution)
 </details><br>
 
 ___

@@ -1,12 +1,16 @@
 ---
 layout: default_modified
 ---
-Assistant research professor working with [Dassanayake lab.@LSU](https://www.lsugenomics.org/){:target="_blank"}. I study plant comparative genomics, especially for those found in "extreme" environments a.k.a. [extremophytes](https://extremeplants.org/what-is-an-extremophyte/){:target="_blank"}.
+Bioinformatics Data Wrangler @ Computercraft; former assistant research professor working with [Dassanayake lab.@LSU](https://www.lsugenomics.org/){:target="_blank"}. I studied plant comparative genomics, especially for those found in "extreme" environments a.k.a. [extremophytes](https://extremeplants.org/what-is-an-extremophyte/){:target="_blank"}.
 
 ___
 ## News 
 
-- 2022-01-10: I presented [Phylogenetically informed Profiling (PiP)](https://pag.confex.com/pag/xxix/meetingapp.cgi/Paper/43553){:target="_blank"}, an attempt to identify functions with lineage(s)-specific GRN modifications, at the "virtual" Plant & Animal Genome Conference (PAGXXIX), Arabidopsis Informatics workshop. (re-recorded talk in preparation)
+- 2022-05-03: Hoping I could assist developing comparative genomics resources for broader scientific community, I moved to Computercraft (see above). Fingers crossed :)
+
+- 2022-05-02: The pandemic-long collaboration on [comparative analysis ABA-responsive GRNs among Brassicaceae extremophytes](https://doi.org/10.1038/s41477-022-01139-5){:target="_blank"} was published in _Nat Plants_. While Dr. Ying Sun and others from José Dinneny group figuring out the [facinating innovations by GRN re-wiring in extremophyte root growth responses to the stress hormone ABA](https://www.cnn.com/2022/05/02/world/extreme-plants-stress-climate-scn/index.html){:target="_blank"}, I provided the framwork for comparative DAP- and RNA-seq analyses for multiplc closely related species.  
+
+- 2022-01-10: I presented [Phylogenetically informed Profiling (PiP)](https://github.com/dinnenylab/BrassicaceaeGRN){:target="_blank"}, an attempt to identify functions with lineage(s)-specific GRN modifications, at the "virtual" [Plant & Animal Genome Conference (PAGXXIX), Arabidopsis Informatics workshop](https://pag.confex.com/pag/xxix/meetingapp.cgi/Paper/43553){:target="_blank"}. (re-recorded talk in preparation)
 
 - 2021-11-28: The [first draft genome of _Phragmites australis_ (common reed)](https://genomevolution.org/coge/GenomeInfo.pl?gid=59768){:target="_blank"} was published in [_Mol Ecol_](https://doi.org/10.1111/mec.16293){:target="_blank"} :) Fun collaboration with researchers from Tulane Univ. and USGS. Next: chromosome-level assemblies of both native and invasive (in North America) subspecies and more comparative genomics of _Phragmites_ invasion.
 

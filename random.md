@@ -5,6 +5,15 @@ layout: default_modified
 # Random questions
 
 ___
+### 2022 May
+
+- What will be the best way to choose a 'primary' gene model for each protein-coding gene locus? Among isoforms, people often choose the one gives the longest ORF - is this the practice in all domains?
+
+- How often will the choice of isoforms affect the ortholog pair/group?  Can we calculate the effect of each isoform to the ortholog network structure (e.g. no change, changes in only certain neighboring orthologs, or changes also in ortholog groups)?
+
+- Eventually, can there be an ortholog pair/group inference that does not require 'primary' gene models, or even benefit from isoforms?
+
+___
 ### 2022 Feb.
 
 - How much are _trans_-acting enhancers responsible for regulating widely conserved functions (e.g. essential and house-keepting)? In a species with a recent expansion of TEs (and a larger genome size), will such enhancer regions still conserved in sequences but regulating from a longer distance?
