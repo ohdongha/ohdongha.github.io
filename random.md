@@ -13,6 +13,8 @@ ___
 
 - Eventually, can there be an ortholog pair/group inference that does not require 'primary' gene models, or even benefit from isoforms?
 
+- What currently available ortholog group inference tools are "scalable," i.e. do not require running entire process again when a new genome added and the new addition does not change the existing ortholog grouping?
+
 ___
 ### 2022 Feb.
 
