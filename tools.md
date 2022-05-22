@@ -13,7 +13,7 @@ ___
 
 - The matrice of presence and absence of positive corrleation between all pairs of species are superimposed to the species tree, for all gene sets. Variance of correlations are then ranked to find out the most significant modifications.
 
-<details markdown=1><summary markdown="span"> Publication </summary>
+<details markdown=1><summary markdown="span"> toggle Publication </summary>
 - Y Sun<sup>\*</sup>, <u>D-H Oh</u><sup>\*</sup>, L Duan, P Ramachandran, A Bartlett, K-N Tran, G Wang, M Dassanayake, JR Dinneny (2022), **Divergence in a stress regulatory network underlies differential growth control.** _Nat Plants_ [doi:doi.org/10.1038/s41477-022-01139-5](https://doi.org/10.1038/s41477-022-01139-5){:target="_blank"}
 (<sup>\*</sup>equal contribution)
 </details><br>
@@ -25,7 +25,7 @@ ___
 
 - OrthNet can (1) improve the resolution of solely sequence-based orthology inferences (e.g. OrthoFinder); (2) serve as a platform to organize and compare various -seq data for multiple species; (3) identify lineage(s)-specific events that modify ortholog copy numbers and synteny, such as duplication, transposition, deletion, and combinations of them; and more.
 
-<details markdown=1><summary markdown="span"> Publication </summary>
+<details markdown=1><summary markdown="span"> toggle Publication </summary>
 - <u>D-H Oh</u> and M Dassanayake (2019), **Landscape of gene transposition-duplication within the Brassicaceae family.** _DNA Res_ 26:21-36 [doi:10.1093/dnares/dsy035](https://doi.org/10.1093/dnares/dsy035){:target="_blank"}
 </details><br>
 
