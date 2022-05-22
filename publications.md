@@ -12,7 +12,7 @@ ___
 (<sup>\*</sup>equal contribution; underlined=me)
 
 2022
-- Y Sun<sup>\*</sup>, <u>D-H Oh</u><sup>\*</sup>, L Duan, P Ramachandran, A Bartlett, K-N Tran, G Wang, M Dassanayake, JR Dinneny (2022), **Divergence in a stress regulatory network underlies differential growth control.** _Nat Plants_ 8:549-560 [doi:doi.org/10.1038/s41477-022-01139-5](https://doi.org/10.1038/s41477-022-01139-5){:target="_blank"}
+- Y Sun<sup>\*</sup>, <u>D-H Oh</u><sup>\*</sup>, L Duan, P Ramachandran, A Bartlett, K-N Tran, G Wang, M Dassanayake, JR Dinneny (2022), **Divergence in a stress regulatory network underlies differential growth control.** _Nat Plants_ 8:549-560 [doi:10.1038/s41477-022-01139-5](https://doi.org/10.1038/s41477-022-01139-5){:target="_blank"}
 
 - <u>D-H Oh</u>, KP Kowalski, C Wijesinghege, Q Quach, P Tanford, M Dassanayake, K Clay (2022),  **Novel genome characteristics contribute to the invasiveness of _Phragmites australis_ (common reed).** _Mol Ecol_ 31:11<area>42-1159 [doi:10.1111/mec.16293](https://doi.org/10.1111/mec.16293){:target="_blank"} 
 

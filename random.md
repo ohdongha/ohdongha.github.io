@@ -18,7 +18,7 @@ ___
 ___
 ### 2022 Feb.
 
-- How much are _trans_-acting enhancers responsible for regulating widely conserved functions (e.g. essential and house-keepting)? In a species with a recent expansion of TEs (and a larger genome size), will such enhancer regions still conserved in sequences but regulating from a longer distance?
+- How much are _trans_-acting enhancers responsible for regulating widely conserved functions (e.g. essential and house-keepting)? In a species with a recent expansion of TEs (and a larger genome size), will such enhancer regions still conserved in sequences but regulating from a longer distance? ([potentially relavent readings](relevant_2.md))
 
 ___
 ### 2022 Jan.
