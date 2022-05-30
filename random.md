@@ -5,6 +5,11 @@ layout: default_modified
 # Random questions
 
 ___
+### 2022 Jun.
+
+- What are example stories of using ortholog group/pair information in a research, especially out of the plant kingdom? See [potentially relavent readings](relevant_3.md).
+
+___
 ### 2022 May
 
 - Many tools for inference of ortholog groups (and other applications) prefer or require a set of one 'primary' or representative gene model (=isoform) per each protein-coding gene locus, as input, to make the computation, and the interpretation of results, easier or feasible. 

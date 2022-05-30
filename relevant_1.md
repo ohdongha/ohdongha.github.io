@@ -24,7 +24,7 @@ ___
 	- Ovens, et al. (2021) Comparative Analyses of Gene Co-Expression Networks: Implementations and Applications in the Study of Evolution. [_Front Genet_ 12:695399](https://doi.org/10.3389/fgene.2021.695399){:target="_blank"}
 	- Ovens, et al. (2021) Juxtapose: A Gene-Embedding Approach for Comparing Co-Expression Networks. [_BMC Bioinformatics_ 22:125](https://doi.org/10.1186/s12859-021-04055-1){:target="_blank"}
 
-([Back to questions](random.md))
+(Back to [questions](random.md) or [bookmarks](bookmarks.md))
 
 ___
 Always click the large [Dong-Ha Oh](index.md) to go back to main index
