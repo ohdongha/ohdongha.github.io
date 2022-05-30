@@ -14,7 +14,7 @@ ___
 	- Bergman, et al. (2022) Compatibility rules of human enhancer and promoter sequences. [_Nature_ doi:10.1038/s41586-022-04877-w](https://doi.org/10.1038/s41586-022-04877-w){:target="_blank"}
 
 
-([Back to questions](random.md))
+(Back to [questions](random.md) or [bookmarks](bookmarks.md))
 
 ___
 Always click the large [Dong-Ha Oh](index.md) to go back to main index
