@@ -20,6 +20,9 @@ ___
 ___
 ## Research
 
+- Assisting development of a comparative genomics resources portal - orthology inference, genome alignment, gene model annotation pipelines, user experiences, and stories. 
+
+
 <details markdown=1><summary markdown="span"> toggle Archived </summary>
 - Developing tools to systemetically detect lineage(s)-specific modifications in gene copy numbers and gene regulatory networks (GRNs), as a part of a [NSF-BSF-EDGE project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923589){:target="_blank"}
 
