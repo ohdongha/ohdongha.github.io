@@ -134,13 +134,13 @@ Go to [Publications](#Publications)
  
 ___
 ## Pending and in preparation
-(current status; PI; my role)
+(current status; PI; my role) \* roles transferred to colleague by 2022 May
 
--	2024 –  : **Using an evolutionary perspective to discover and predict stress-associated gene functions in the Brassicaceae family** (_pending_; José Dinneny, Stanford Univ.; Key personnel) 
+-	2023 –  : **Using an evolutionary perspective to discover and predict stress-associated gene functions in the Brassicaceae family** (_recommanded for funding_; José Dinneny, Stanford Univ.; Key personnel \*) 
 
 ___
 ## Awarded 
-(amount awarded; PI; my role) \* roles transferred to colleague
+(amount awarded; PI; my role) \* roles transferred to colleague by 2022 May
 
 -	2022 – 2025	: USDA-NIFA; **[Deciphering the role of the quorum-sensing master regulator, _qsmR_, in social behaviors of _Burkholderia glumae_ for bacterial pathogenesis in rice plants](https://portal.nifa.usda.gov/web/crisprojectpages/1027790-deciphering-the-role-of-the-quorum-sensing-master-regulator-qsmr-in-social-behaviors-of-burkholderia-glumae-for-bacterial-pathogenesis-in-rice-plants.html){:target="_blank"}** ($682,232; Jong Hyun Ham, LSU; Collaborator \*)
 

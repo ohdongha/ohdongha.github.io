@@ -4,12 +4,10 @@ layout: default_modified
 
 # Bookmarks
 
-More recently updated ones on top.
-
 ___
 ### Readings potentially relevant to [Random Questions](random.md) 
 
-- Genome alignment application stories (to be added ...) 
+- Whole genome alignment and graph genome application stories (to be added ...) 
 
 - [Orthology](relevant_3.md) application stories
 
@@ -33,10 +31,8 @@ ___
 
 - Benchmarks, reviews, etc.
 
-	- Quest for Orthologs ([QfO](https://questfororthologs.org/){:target="_blank"})
-
 	- DRSC integrative ortholog prediction tool ([DIOPT](https://fgr.hms.harvard.edu/diopt-documentation){:target="_blank"}) - includes links to other tools
-
+	- Quest for Orthologs ([QfO](https://questfororthologs.org/){:target="_blank"})
 	- How are orthologs calculated by [NCBI Orthologs](https://www.ncbi.nlm.nih.gov/kis/info/how-are-orthologs-calculated/){:target="_blank"}
 
 ___
@@ -46,14 +42,13 @@ ___
 - Genomics
 
 	- Colin's curated list of "[awesome genome visualization](https://cmdcolin.github.io/awesome-genome-visualization/?latest=true&tag=Comparative){:target="_blank"}" tools. 
-
 	- [GenoCAT.tools](http://genocat.tools/){:target="_blank"}
 
 
 - Generic
 
-	- Create and share beautiful images of your source code using [carbon](https://carbon.now.sh/){:target="_blank"}. 
-
+	- Create and share beautiful images of your source code using [carbon](https://carbon.now.sh/){:target="_blank"}.
+	- Chenxin Li's "[Friends don't let friends ...](https://github.com/cxli233/FriendsDontLetFriends)" series
 	- The "30-Day Chart Challenge" [GitHub](https://github.com/30DayChartChallenge/Edition2022){:target="_blank"} [#30DayChartChallenge](https://twitter.com/hashtag/30DayChartChallenge?src=hashtag_click){:target="_blank"} [@30DayChartChallenge](https://twitter.com/30DayChartChall){:target="_blank"}
 
 

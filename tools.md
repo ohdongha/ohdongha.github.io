@@ -11,7 +11,7 @@ ___
 ## [PiP](https://github.com/dinnenylab/BrassicaceaeGRN){:target="_blank"}
 - An attempt to identify functions and gene sets (e.g. Gene Ontology terms) that underwent lineage(s)-specific modifications in gene expression/regulation among multiple species, by performing Phylogenetically-informed Profiling (PiP) of gene sets.  Check the [re-recorded PAG2022 talk](https://www.youtube.com/watch?v=zR9b0oKNfiM){:target="_blank"} for details.
 
-- The matrice of presence and absence of positive corrleation between all pairs of species are superimposed to the species tree, for all gene sets. Variance of correlations are then ranked to find out the most significant modifications.
+- The matrices of presence and absence of positive correlation between all pairs of species are superimposed to the species tree, for all gene sets. Variance of correlations are then ranked to find out the most significant modifications.
 
 <details markdown=1><summary markdown="span"> toggle Publication </summary>
 - Y Sun<sup>\*</sup>, <u>D-H Oh</u><sup>\*</sup>, L Duan, P Ramachandran, A Bartlett, K-N Tran, G Wang, M Dassanayake, JR Dinneny (2022), **Divergence in a stress regulatory network underlies differential growth control.** _Nat Plants_ [doi:doi.org/10.1038/s41477-022-01139-5](https://doi.org/10.1038/s41477-022-01139-5){:target="_blank"}
