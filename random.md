@@ -5,6 +5,11 @@ layout: default_modified
 # Random questions
 
 ___
+### 2022 Aug.
+
+- What are the repeat-masking methods computationally less expensive than RepeatModler + RepeatMasker, when the goal is masking repeats to facilitate genome alignments (i.e. no need for repeat classification and a bit of "over-masking" acceptable)?  See [potentially relevant readings](relevant_4.md).
+
+___
 ### 2022 Jun.
 
 - What are example stories of using multiple whole genome alignment (mWGA) or graph genomes in a research?

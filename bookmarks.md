@@ -7,6 +7,8 @@ layout: default_modified
 ___
 ### Readings potentially relevant to [Random Questions](random.md) 
 
+- Computationally less expensive [alternative repeat-masking options](relevant_4.md)
+
 - Whole genome alignment and graph genome application stories (to be added ...) 
 
 - [Orthology](relevant_3.md) application stories

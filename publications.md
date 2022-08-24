@@ -137,7 +137,7 @@ ___
 ## Pending and in preparation
 (current status; PI; my role) \* roles transferred to colleague by 2022 May
 
--	2023 –  : **Using an evolutionary perspective to discover and predict stress-associated gene functions in the Brassicaceae family** (_recommanded for funding_; José Dinneny, Stanford Univ.; Key personnel \*) 
+-	2023 –  : **Using an evolutionary perspective to discover and predict stress-associated gene functions in the Brassicaceae family** (_recommanded for funding_; José Dinneny, Stanford Univ.; Co-Investigator \*) 
 
 ___
 ## Awarded 
