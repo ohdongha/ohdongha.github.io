@@ -65,7 +65,7 @@ Preprints
 - P Pantha, <u>D-H Oh</u>, D Longstreth, M Dassanayake (2021) **Living with high potassium: an asset or a hindrance.** _bioRxiv_ [doi:10.1101/2021.07.01.450778](https://doi.org/10.1101/2021.07.01.450778){:target="_blank"}
 
 2022
-- G Eshel<sup>\*</sup>, N Duppen<sup>\*</sup>, G Wang, <u>D-H Oh</u>, Y Kazachkova, P Herzyk, A Amtmann, M Gordon, V Chalifa-Caspi, MO Arland, S Bar-David, A Marshall-Colon, M Dassanayake, S Barak (2022) **Positive selection and heat-response transcriptomes reveal adaptive features of the Brassicaceae desert model, _Anastatica hierochuntica_.** _New Phytol_ [doi:10.1111/nph.18411](https://doi.org/10.1111/nph.18411){:target="_blank"}
+- G Eshel<sup>\*</sup>, N Duppen<sup>\*</sup>, G Wang, <u>D-H Oh</u>, Y Kazachkova, P Herzyk, A Amtmann, M Gordon, V Chalifa-Caspi, MO Arland, S Bar-David, A Marshall-Colon, M Dassanayake, S Barak (2022) **Positive selection and heat-response transcriptomes reveal adaptive features of the Brassicaceae desert model, _Anastatica hierochuntica_.** _New Phytol_ 236:10<area>06-1026 [doi:10.1111/nph.18411](https://doi.org/10.1111/nph.18411){:target="_blank"}
 
 2021
 - G Wang G, SF DiTusa, <u>D-H Oh</u>, AD Herrmann, MA O’Neill, AP Smith, M Dassanayake (2021), **Cross species multi-omics reveals cell wall sequestration and elevated global transcript abundance as mechanisms of boron tolerance in plants.** _New Phytol_ 230:1985–2000 [doi:10.1111/nph.17295](https://doi.org/10.1111/nph.17295){:target="_blank"}

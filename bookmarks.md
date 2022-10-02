@@ -40,7 +40,6 @@ ___
 ___
 ### Data visualization
 
-
 - Genomics
 
 	- Chromosome visualization with [ideogram.js](https://eweitz.github.io/ideogram/){:target="_blank"}
@@ -54,6 +53,14 @@ ___
 	- Chenxin Li's "[Friends don't let friends ...](https://github.com/cxli233/FriendsDontLetFriends)" series
 	- The "30-Day Chart Challenge" [GitHub](https://github.com/30DayChartChallenge/Edition2022){:target="_blank"} [#30DayChartChallenge](https://twitter.com/hashtag/30DayChartChallenge?src=hashtag_click){:target="_blank"} [@30DayChartChallenge](https://twitter.com/30DayChartChall){:target="_blank"}
 
+
+___
+### Lectures (for myself)
+
+- 2022 Oct
+	- [Linear algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/){:target="_blank"} by Prof. Gilbert Strang
+	- [Machine learning for genomics, 2020 Fall](https://www.youtube.com/playlist?list=PLypiXJdtIca6dEYlNoZJwBaz__CdsaoKJ){:target="_blank"} by Prof. Manolis Kellis
+	- [Intro. to bioninformatics and computational biology, 2020 Spring](https://www.youtube.com/playlist?list=PLeB-Dlq-v6tY3QLdQBA7rwb4a7fK9mLpv){:target="_blank"} by Prof. Xiaole Shirley Liu 
 
 ___
 Always click the large [Dong-Ha Oh](index.md) to go back to main index
