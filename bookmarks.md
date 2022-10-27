@@ -56,16 +56,23 @@ ___
 
 
 ___
-### Lectures (for myself)
+### Learning materials (for myself)
 
 - Math
 	- [Linear algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/){:target="_blank"} by Prof. Gilbert Strang
-	- [multi-variable calculus](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38){:target="_blank"} by Prof. Denis Auroux
-	- [Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo){:target="_blank"} by Prof. Joe Blitzstein 
+	- [Multi-variable calculus](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38){:target="_blank"} by Prof. Denis Auroux
+	- [Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo){:target="_blank"} by Prof. Joe Blitzstein
+
+- Machine learning, etc.
+	- [The Mechanics of Machine Learning](https://mlbook.explained.ai/){:target="_blank"} by Terence Parr and Jeremy Howard
+	- [Awesome Diffusion Models](https://github.com/heejkoo/Awesome-Diffusion-Models), collection by _heejkoo_ 
 
 - Genomics and bioinformatics
 	- [Machine learning for genomics, 2020 Fall](https://www.youtube.com/playlist?list=PLypiXJdtIca6dEYlNoZJwBaz__CdsaoKJ){:target="_blank"} by Prof. Manolis Kellis
 	- [Intro. to bioninformatics and computational biology, 2020 Spring](https://www.youtube.com/playlist?list=PLeB-Dlq-v6tY3QLdQBA7rwb4a7fK9mLpv){:target="_blank"} by Prof. Xiaole Shirley Liu 
+
+- Evolution and genetics
+	- [Shiny pop-gene course apps and resources](https://github.com/silastittes/shiny_popgen){:target="_blank"} by Silas Tittes
 
 ___
 Always click the large [Dong-Ha Oh](index.md) to go back to main index

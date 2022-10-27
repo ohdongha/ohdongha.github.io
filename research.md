@@ -7,14 +7,14 @@ layout: default_modified
 ___
 ### Since 2022 May
 
-- Orthology inference and genome alignment (see more in [Random Questions](random.md))
+- Orthology inference and whole genome alignment (see more in [Random Questions](random.md))
 
 	- What are the best pipelines + how to evaluate and improve?
 	- Ux and stories: what have been the most useful to users? 
 
 - Contributing to comparative genomics resources development, personal wish list: 
 
-	- comparative browser, scalable (and useful) ortholog groups, ...
+	- comparative genome browser, scalable (and useful) ortholog groups, etc. 
 	- resources that assist genome analysis/annotation by the user
 
 ___
