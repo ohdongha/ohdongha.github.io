@@ -62,9 +62,11 @@ Preprints
 
 - K-N Tran<sup>\*</sup>, P Pantha<sup>\*</sup>, G Wang<sup>\*</sup>, N Kumar<sup>\*</sup>, C Wijesinghege, <u>D-H Oh</u>, N Duppen, H Li, H Hong, JC Johnson, R Kelt, MG Matherne, A Clement, D Tran, C Crain, P Adhikari, Y Zhang, M Foroozani, G Sessa, JC Larkin, AP Smith, D Longstreth, P Finnegan, C Testerink, S Barak, M Dassanayake (2021) **Balancing growth amidst salinity stress-lifestyle perspectives from the extremophyte model _Schrenkiella parvula_.** _bioRxiv_ [doi:10.1101/2021.08.27.457575](https://doi.org/10.1101/2021.08.27.457575){:target="_blank"}
 
-- P Pantha, <u>D-H Oh</u>, D Longstreth, M Dassanayake (2021) **Living with high potassium: an asset or a hindrance.** _bioRxiv_ [doi:10.1101/2021.07.01.450778](https://doi.org/10.1101/2021.07.01.450778){:target="_blank"}
+2023
+- P Pantha, <u>D-H Oh</u>, D Longstreth, M Dassanayake (2021) **Living with high potassium: balance between nutrient acquisition and K-induced salt stress signaling.** _Phant Physiol_ in press [doi:10.1093/plphys/kiac564](https://doi.org/10.1093/plphys/kiac564){:target="_blank"}
 
 2022
+- DL Lindsay, J Freeland, P Gong, X Guan, NE Harms, KP Kowalski, RF Lance, <u>D-H Oh</u>, BT Sartain, DL Wendell (2022), **Genetic analysis of North American Phragmites australis guides management approaches.** _Aquat Bot_ 184:103<area>589 [doi:10.1016/j.aquabot.2022.103589](https://doi.org/10.1016/j.aquabot.2022.103589){:target="_blank"}
 - G Eshel<sup>\*</sup>, N Duppen<sup>\*</sup>, G Wang, <u>D-H Oh</u>, Y Kazachkova, P Herzyk, A Amtmann, M Gordon, V Chalifa-Caspi, MO Arland, S Bar-David, A Marshall-Colon, M Dassanayake, S Barak (2022) **Positive selection and heat-response transcriptomes reveal adaptive features of the Brassicaceae desert model, _Anastatica hierochuntica_.** _New Phytol_ 236:10<area>06-1026 [doi:10.1111/nph.18411](https://doi.org/10.1111/nph.18411){:target="_blank"}
 
 2021
