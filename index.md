@@ -26,6 +26,9 @@ ___
 ## [Bookmarks](bookmarks.md)
 
 ___
+## [Reading journal 독서일기](reading.md)
+
+___
 ## [Tools](tools.md)
 
 ___
