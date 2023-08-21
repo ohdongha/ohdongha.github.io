@@ -2,7 +2,9 @@
 layout: default_modified
 ---
 
-# Reading journal 독서일기
+# Reading journal 독서 일기
+
+[트위터 독서 일기 글타래](https://twitter.com/inspirace/status/1657732994403016705){:target="_blank"}
 
 ___
 ### 2023
@@ -24,7 +26,7 @@ ___
 
 - 230701 **The Three-Body Problem** Series: The Three-Body Problem, The Dark Forest, Death's End 삼체 (2017) by Cixin Liu , Ken Liu, et al.
   - Rating: 4/5
-  - Details TBA
+  - [짧은 독후감 (큐돈 글타래)](https://qdon.space/@inspirace/110642611954209960){:target="_blank"} 
 
 - 230603 **Algorithms to Live By**: The Computer Science of Human Decisions 알고리즘, 인생을 설계하다 (2016) by Brian Christian and Tom Griffiths
   - Rating: 4/5
@@ -32,7 +34,7 @@ ___
 
 - 230521 **Anthro-Vision**: A New Way to See in Business and Life 알고 있다는 착각 (2021) by Gillian Tett
   - Rating: 4/5
-  - Details TBA
+  - [짧은 독후감 (큐돈 글타래)](https://qdon.space/@inspirace/110406545430732771){:target="_blank"} 
 
 ___
 Always click the large [Dong-Ha Oh](index.md) to go back to main index

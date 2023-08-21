@@ -26,13 +26,10 @@ ___
 ## [Bookmarks](bookmarks.md)
 
 ___
-## [Reading journal 독서일기](reading.md)
+## [Reading journal 독서 일기](reading.md)
 
 ___
-## [Tools](tools.md)
-
-___
-## [Publications & Grants](publications.md)
+## [Publications & c.](publications.md)
 
 ___
 ## Contact

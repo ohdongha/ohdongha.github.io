@@ -5,7 +5,7 @@ layout: default_modified
 # <a name="Publications"></a>Publications
 See numbers "cited by" [@Google Scholar](https://scholar.google.com/citations?user=nueqysEAAAAJ&hl=en){:target="_blank"}
 
-Go to [Grants](#Grants)
+Go to [Grants](#Grants), [Tools](#Tools), or [main index](index.md)
 
 ___
 ## Publications as a lead/corresponding author 
@@ -131,22 +131,21 @@ Preprints
 - SJ Noh, CS Kwon, <u>D-H Oh</u>, JS Moon, Chung WI (2003), **Expression of an evolutionarily distinct novel _BiP_ gene during the unfolded protein response in _Arabidopsis thaliana_.** _Gene_ 311:81–91.
 
 ___
+Always click the large [Dong-Ha Oh](index.md) to go back to main index
+
+___
 ___
 
 
 # <a name="Grants"></a>Grants
 
-Go to [Publications](#Publications)
+Go to [Publications](#Publications), [Tools](#Tools), or [main index](index.md)
  
-___
-## Pending and in preparation
-(current status; PI; my role) \* roles transferred to colleague by 2022 May
-
--	2023 –  : **Using an evolutionary perspective to discover and predict stress-associated gene functions in the Brassicaceae family** (_recommanded for funding_; José Dinneny, Stanford Univ.; Co-Investigator \*) 
-
 ___
 ## Awarded 
 (amount awarded; PI; my role) \* roles transferred to colleague by 2022 May
+
+-	2023 – 2026 : **[Using an Evolutionary Perspective to Discover and Predict Stress-Associated Gene Functions](https://genomicscience.energy.gov/genomics-enabled-plant-biology-for-determination-of-gene-function-awards/){:target="_blank"}** ($2,700,000; José Dinneny, Stanford Univ.; Co-Investigator \*)
 
 -	2022 – 2025	: USDA-NIFA; **[Deciphering the role of the quorum-sensing master regulator, _qsmR_, in social behaviors of _Burkholderia glumae_ for bacterial pathogenesis in rice plants](https://portal.nifa.usda.gov/web/crisprojectpages/1027790-deciphering-the-role-of-the-quorum-sensing-master-regulator-qsmr-in-social-behaviors-of-burkholderia-glumae-for-bacterial-pathogenesis-in-rice-plants.html){:target="_blank"}** ($682,232; Jong Hyun Ham, LSU; Collaborator \*)
 
@@ -170,3 +169,47 @@ ___
 
 ___
 Always click the large [Dong-Ha Oh](index.md) to go back to main index
+
+___
+___
+
+
+# <a name="Tools"></a>Tools
+
+Go to [Publications](#Publications), [Grants](#Grants), or [main index](index.md)
+
+Each link leads to the GitHub repository for the tool.
+
+___
+
+## [PiP](https://github.com/dinnenylab/BrassicaceaeGRN){:target="_blank"}
+- An attempt to identify functions and gene sets (e.g. Gene Ontology terms) that underwent lineage(s)-specific modifications in gene expression/regulation among multiple species, by performing Phylogenetically-informed Profiling (PiP) of gene sets.  Check the [re-recorded PAG2022 talk](https://www.youtube.com/watch?v=zR9b0oKNfiM){:target="_blank"} for details.
+
+- The matrices of presence and absence of positive correlation between all pairs of species are superimposed to the species tree, for all gene sets. Variance of correlations are then ranked to find out the most significant modifications.
+
+<details markdown=1><summary markdown="span"> toggle Publication </summary>
+- Y Sun<sup>\*</sup>, <u>D-H Oh</u><sup>\*</sup>, L Duan, P Ramachandran, A Bartlett, K-N Tran, G Wang, M Dassanayake, JR Dinneny (2022), **Divergence in a stress regulatory network underlies differential growth control.** _Nat Plants_ [doi:doi.org/10.1038/s41477-022-01139-5](https://doi.org/10.1038/s41477-022-01139-5){:target="_blank"}
+(<sup>\*</sup>equal contribution)
+</details><br>
+
+___
+
+## [OrthNet](https://github.com/ohdongha/OrthNet){:target="_blank"}
+- An attempt to identify ortholog groups based on synteny/co-linearity and encode the evolutionary history of each ortholog group as the topology of Ortholog Network (OrthNet), among multiple closely related genomes. 
+
+- OrthNet can (1) improve the resolution of solely sequence-based orthology inferences (e.g. OrthoFinder); (2) serve as a platform to organize and compare various -seq data for multiple species; (3) identify lineage(s)-specific events that modify ortholog copy numbers and synteny, such as duplication, transposition, deletion, and combinations of them; and more.
+
+<details markdown=1><summary markdown="span"> toggle Publication </summary>
+- <u>D-H Oh</u> and M Dassanayake (2019), **Landscape of gene transposition-duplication within the Brassicaceae family.** _DNA Res_ 26:21-36 [doi:10.1093/dnares/dsy035](https://doi.org/10.1093/dnares/dsy035){:target="_blank"}
+</details><br>
+
+___
+
+## [Genome toolbox](https://github.com/ohdongha/Genome-Toolbox){:target="_blank"}
+- Python scripts for exploring and fixing genome assembly (.fa) and annotation (.gtf).
+
+- Useful if you want to (1) remove chunks in the middle of sequences when there is a gene model annotation (.gtf); (2) for all gene models in a .gtf, rename `transcript_id`, `gene_id`, and `gene_name` fields; (3) cluster gene models from the same locus (i.e. isoforms) and select, for example, those coding for longest ORFs as "primary" gene models; (4) extract sequences for genomic regions (e.g. promoters); (5) find all sequence elements (defined as regex) in a genome; and more.
+  
+___
+Always click the large [Dong-Ha Oh](index.md) to go back to main index
+
