@@ -5,6 +5,13 @@ layout: default_modified
 # Bookmarks
 
 ___
+### Random but cool encounters 
+
+- On "Mutationism"
+	- [What on earch is mutationism](https://www.molevol.org/what-on-earth-is-mutationism-some-possible-answers/){:target="_blank"}
+	- Is the growing relevance of SV, WGD, and gene duplication a resurgence of a softer form of mutationism? [A Twitter thread](https://twitter.com/thebirdmaniac/status/1542196802518147072){:target="_blank"}
+
+___
 ### Readings potentially relevant to [Random Questions](random.md) 
 
 - Computationally less expensive [alternative repeat-masking options](relevant_4.md)
@@ -14,7 +21,6 @@ ___
 - Conservation, etc. of [promoters and enhancers](relevant_2.md)
  
 - Methods and examples of exploring [evolution of GRNs](relevant_1.md)
-
 
 ___
 ### Whole Genome Alignment (WGA)
@@ -29,7 +35,6 @@ ___
 - [make_lastz_chains](https://github.com/hillerlab/make_lastz_chains){:target="_blank"}: a NextFlow pipeline to run `lastz` in multiple threads.
 
 - WGA / graph genome application stories, benchmarks, reviews, etc. (to be added...) 
-
 
 ___
 ### Orthology inference
