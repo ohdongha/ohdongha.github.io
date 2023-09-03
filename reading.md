@@ -9,12 +9,20 @@ layout: default_modified
 ___
 ### 2023
 
-- Reading: **Prime Obsession**: Bernhard Riemann and the Greatest Unsolved Problem in Mathematics (2024) by John Derbyshire
-  - Started 230816 ... 
+- Reading: The **History of Love**: A Novel (2006) by Nicole Krauss
+  - Started 230903 ... 
 
+- 230903 **Prime Obsession**: Bernhard Riemann and the Greatest Unsolved Problem in Mathematics (2004) by John Derbyshire
+  - Rating: 5/5
+  <details markdown=1><summary markdown="span"> toggle 아주 짧은 독후감 </summary>
+  - 아니 이게 여기서 왜 나와? 아 이게 이렇게 연결되네? 이런 반전과 즐거움이 가득한 책. 3Blue1Brown 등 다른 매체들 도움을 받아가며 나중에 한번 더 읽고 싶다. 특히 소수의 특성 연구에서 연산자 이론 operator theory 등을 거쳐 양자 역학으로 이어지는 (이어지나?) 설명이 조금 더 자세하게 있으면 매우 재미있을 듯.
+  - 유일한 단점은 수학 공식, 변수, 함수 등이 킨들에서 매끄럽게 보이지 않는 점 - 종이책도 살까?
+  - 저자가 이 책 출간 10년 쯤 후에 인종차별 발언을 해서 직장에서 잘렸고, 비슷한 느낌의 정치 책도 한 권 쓴 것을 발견하고 깜짝 놀랐다. 동명이인인 줄 알았는데... 이 책에서 저자 정치 성향은 그다지 드러나지 않음.   
+  </details><br>
+   
 - 230815 **Quantum Supremacy**: How the Quantum Computer Revolution Will Change Everything (2023) by Michio Kaku
   - Rating: 1/5
-  - Stopped after the first chapter ... looking for a good book on Quantum computers for a non-expert.
+  - I stopped after the first chapter... looking for a better book on Quantum computers for a non-expert.
 
 - 230814 **Poverty, by America** (2023) by Matthew Desmond
   - Rating: 5/5
@@ -24,7 +32,7 @@ ___
   - Rating: 4/5
   - Details TBA
 
-- 230701 **The Three-Body Problem** Series: The Three-Body Problem, The Dark Forest, Death's End 삼체 (2017) by Cixin Liu , Ken Liu, et al.
+- 230701 **The Three-Body Problem** Series: The Three-Body Problem, The Dark Forest, Death's End 삼체 (2017) by Cixin Liu, Ken Liu, et al.
   - Rating: 4/5
   - [짧은 독후감 (큐돈 글타래)](https://qdon.space/@inspirace/110642611954209960){:target="_blank"} 
 
