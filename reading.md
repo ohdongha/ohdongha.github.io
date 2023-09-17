@@ -9,9 +9,10 @@ layout: default_modified
 ___
 ### Reading or planning to read:
 (or, more precisely, hoping to be able to finish sometimes)
+- The Lady Tasting Tea: How Statistics Revolutionized Science in the Twentieth Century (2001) by David Salsburg
+- The Taming of Chance (1990) by Ian Hacking
 - Lab Girl (2016) by Hope Jahren
 - An Immense World: How Animal Senses Reveal the Hidden Realms Around Us (2022) by Ed Yong
-- The Taming of Chance (1990) by Ian Hacking
 - Consciousness Explained (1991;2017) by Daniel C. Dennett and Paul Weiner
 
 ___
