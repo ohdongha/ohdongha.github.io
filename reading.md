@@ -9,14 +9,22 @@ layout: default_modified
 ___
 ### Reading or planning to read:
 (or, more precisely, hoping to be able to finish sometimes)
-- The Lady Tasting Tea: How Statistics Revolutionized Science in the Twentieth Century (2001) by David Salsburg
-- The Taming of Chance (1990) by Ian Hacking
 - Lab Girl (2016) by Hope Jahren
+- The Taming of Chance (1990) by Ian Hacking
 - An Immense World: How Animal Senses Reveal the Hidden Realms Around Us (2022) by Ed Yong
 - Consciousness Explained (1991;2017) by Daniel C. Dennett and Paul Weiner
 
 ___
 ### Read in 2023
+
+- 231014 The **Lady Tasting Tea**: How Statistics Revolutionized Science in the Twentieth Century 차 맛보는 여인 (2001) by David Salsburg
+  - Rating: 4/5
+  <details markdown=1><summary markdown="span"> toggle 아주 짧은 독후감 </summary>
+  - "통계학과 추천 도서" 라는 맞을 듯 하다. 2008년 처음 샀을 때는 잘 읽히지 않았는데, 이후 연구/공부/일 하다가 통계 때문에 골치 썩어본 경험 때문인지 이번에는 즐겁게 읽었다.
+  - 2008년에 이걸 다 읽고 새길 여력/능력이 되었다면, 이후 연구 생활 좀 더 세련되게, 또 주어진 방법론 따라가기보다 때때로 문제에 직접 대들려고 좀 더 발버둥칠 수 있지 않았을까.
+  - 확률/통계학 발전에 족적을 남긴 등장 인물들이 7, 80대 노년까지 왕성한 활동을 해서, 저자가 직접 만나본 경험과 인상을 적어놓은 부분이 자주 있다. 어떻게 하면 저렇게 나이들 수 있을까.
+  - 마지막 챕터와 그 외 몇몇 챕터들은 몇 년 후 다시 읽어보고 싶다.  했던 이야기 반복 간혹 있고, 수학적인 디테일을 너무 철저히 배재한 점은 아쉽다.   
+  </details><br>
 
 - 230915 The **History of Love**: A Novel (2006) by Nicole Krauss
   - Rating: 4/5
