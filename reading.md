@@ -46,8 +46,13 @@ ___
   - I stopped after the first chapter... looking for a better book on Quantum computers for a non-expert.
 
 - 230814 **Poverty, by America** (2023) by Matthew Desmond
-  - Rating: 5/5
-  - Details TBA
+  - Rating: 4/5
+  <details markdown=1><summary markdown="span"> toggle 아주 짧은 독후감 </summary>
+  - 미국에서 빈부 격차는 다른 나라들에서 흔히 벌어지는 일들에 인종 분리/차별의 역사가 더해져 더 복잡하다.
+  - 흔히 가난을 게으름, 낭비, 효율적이지 못한 경제적 선택 등과 연관시켜 비난하고 낮추어보지만, 저자는 하루 16시간씩 건강을 망치며 일해도 가난에서 벗어날 수 없는 예들과 여러 연구 결과들을 들어, 가난이 여러 양의 피드백 기작을 통해 '만들어진 것'임을 역설한다. 특히 가난할수록 높은 이자율을 강제하는 금융 기관, 복지 혜택 심사를 '도와주는' 변호사 사업 등 가난을 이용하는 비즈니스들의 존재, 가난하게 사는 것이 더 비용이 많이 드는 모순은 충격적이었다.
+  - 흔히 부자들 상위 1% 나 상위 10% 를 악마화하지만, 실은 더 많은 미국인들, 즉 401K 처럼 은퇴 자금을 주식/자본 시장에 의존하고 있는 상위 절반 가량이 구조적 가난을 고착시키고 이용하는 공범이라는 지적도 신선했다.  
+  - 문제 제기는 강렬했지만, 해결책 제시는 역시 어려운 일. 다만 미국 후버 정권 때 지금처럼 정치가 양극화되고 엉망이었는데도, Social Security 등 오래 살아남고 대중에게 인기 있어 아무도 함부로 못 건드리는 사회 보장 제도들이 법제화 되었음을 강조하면서 희망을 잃지 않을 것을 강조한다. 이 시기 미국 정치, 사회사와 사회 보장 제도들에 대해 더 읽어보고 싶다. 문제 제기와 해결책이 모두 철저하게 미국 내에 국한된 점은 한계. 
+  </details><br>
 
 - 230730 **Metazoa**: Animal Life and the Birth of the Mind (2020) by Peter Godfrey-Smith
   - Rating: 4/5
