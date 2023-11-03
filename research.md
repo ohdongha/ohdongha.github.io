@@ -7,6 +7,11 @@ layout: default_modified
 ___
 ### Since 2022 May
 
+- Comparative genomics to facilitate gene annotation
+
+	- Reasonable and reliable Gene Ontology (GO) annotation to non-model organism genomes
+	- Improving protein-coding gene models using sequence conservation in non-model organism genomes 
+  
 - Orthology inference and whole genome alignment (see more in [Random Questions](random.md))
 
 	- What are the best pipelines + how to evaluate and improve?
@@ -14,8 +19,8 @@ ___
 
 - Contributing to comparative genomics resources development, personal wish list: 
 
-	- comparative genome browser, scalable (and useful) ortholog groups, etc. 
-	- resources that assist genome analysis/annotation by the user
+	- Comparative genome browser, scalable (and useful) ortholog groups, etc. 
+	- Resources that assist genome analysis/annotation by the user
 
 ___
 ### Before 2022 May
