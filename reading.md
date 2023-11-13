@@ -9,6 +9,8 @@ layout: default_modified
 ___
 ### Reading or planning to read:
 (or, more precisely, hoping to be able to finish sometimes)
+- Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures (2020) by Merlin Sheldrake
+- Most Delicious Poison: The Story of Nature's Toxins—From Spices to Vices (2023) by Noah Whiteman
 - The Taming of Chance (1990) by Ian Hacking
 - An Immense World: How Animal Senses Reveal the Hidden Realms Around Us (2022) by Ed Yong
 - Consciousness Explained (1991;2017) by Daniel C. Dennett and Paul Weiner
