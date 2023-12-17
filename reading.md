@@ -19,6 +19,13 @@ ___
 ___
 ### Read in 2023
 
+- 231217 **Tomorrow, and Tomorrow, and Tomorrow**: A novel (2022) by Gabrielle Zevin
+  - Rating: 4.5/5
+  <details markdown=1><summary markdown="span"> toggle 아주 짧은 독후감 </summary>
+  - TBA
+  - [트위터 인용 타래](https://twitter.com/inspirace/status/1713711353007935738){:target="_blank"} 
+  </details><br>
+
 - 231112 **Lab Girl** (2016) by Hope Jahren
   - Rating: 4/5
   <details markdown=1><summary markdown="span"> toggle 아주 짧은 독후감 </summary>
@@ -38,7 +45,7 @@ ___
   </details><br>
 
 - 230915 The **History of Love**: A Novel (2006) by Nicole Krauss
-  - Rating: 4/5
+  - Rating: 3.5/5
   <details markdown=1><summary markdown="span"> toggle 아주 짧은 독후감 </summary>
   - 첫장 독거노인 두 명 살아가는 (?) 모습이 너무 강렬해서 읽기 시작했는데, 이후로는 그럭저럭... 
   - And yet, 트위터 둠스크롤링하며 시간 보내는 것보다 훨씬 즐거운 책 읽기였고, 마지막은 다시 강렬했다.   
