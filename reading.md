@@ -23,7 +23,7 @@ ___
   - Rating: 4.5/5
   <details markdown=1><summary markdown="span"> toggle 아주 짧은 독후감 </summary>
   - TBA
-  - [트위터 인용 타래](https://twitter.com/inspirace/status/1713711353007935738){:target="_blank"} 
+  - [트위터 인용 타래](https://twitter.com/inspirace/status/1728617247952777698){:target="_blank"} 
   </details><br>
 
 - 231112 **Lab Girl** (2016) by Hope Jahren
