@@ -83,7 +83,7 @@ ___
   - [짧은 독후감 (큐돈 글타래)](https://qdon.space/@inspirace/110642611954209960){:target="_blank"} 
 
 - 230603 **Algorithms to Live By**: The Computer Science of Human Decisions 알고리즘, 인생을 설계하다 (2016) by Brian Christian and Tom Griffiths
-  - Rating: 4/5
+  - Rating: 4.5/5
   - Details TBA
 
 - 230521 **Anthro-Vision**: A New Way to See in Business and Life 알고 있다는 착각 (2021) by Gillian Tett
