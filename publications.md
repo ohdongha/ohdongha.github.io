@@ -141,6 +141,8 @@ ___
 
 # <a name="Grants"></a>Grants
 
+See the [C.V.](https://ohdongha.github.io/Dong-Ha_Oh_CV_full.pdf){:target="_blank"} for updates after 2022. 
+
 Go to [Publications](#Publications), [Tools](#Tools), or [main index](index.md)
  
 ___
@@ -179,6 +181,8 @@ ___
 # <a name="Tools"></a>Tools
 
 Go to [Publications](#Publications), [Grants](#Grants), or [main index](index.md)
+
+See the [C.V.](https://ohdongha.github.io/Dong-Ha_Oh_CV_full.pdf){:target="_blank"} for updates after 2022. 
 
 Each link leads to the GitHub repository for the tool.
 
