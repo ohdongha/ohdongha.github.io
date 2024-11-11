@@ -5,6 +5,8 @@ layout: default_modified
 # <a name="Publications"></a>Publications
 See numbers "cited by" [@Google Scholar](https://scholar.google.com/citations?user=nueqysEAAAAJ&hl=en){:target="_blank"}
 
+See the [C.V.](https://ohdongha.github.io/Dong-Ha_Oh_CV_full.pdf){:target="_blank"} for updates after 2022. 
+
 Go to [Grants](#Grants), [Tools](#Tools), or [main index](index.md)
 
 ___
