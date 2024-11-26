@@ -23,7 +23,7 @@ ___
 - Machine learning, etc.
 	- [The Mechanics of Machine Learning](https://mlbook.explained.ai/){:target="_blank"} by Terence Parr and Jeremy Howard
 	- [Awesome Diffusion Models](https://github.com/heejkoo/Awesome-Diffusion-Models){:target="_blank"}, collection by _heejkoo_
-   	- [Deep Learning Course](https://fleuret.org/dlc/){:target="_blank"} by François Fleuret 
+	- [Deep Learning Course](https://fleuret.org/dlc/){:target="_blank"} by François Fleuret 
 
 ___
 ### Readings potentially relevant to [Random Questions](random.md) 
