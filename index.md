@@ -20,13 +20,13 @@ ___
 ## [Research](research.md)
 
 ___
-## [Random questions](random.md)
-
-___
 ## [Bookmarks](bookmarks.md)
 
 ___
 ## [Reading journal 독서 일기](reading.md)
+
+___
+## [Random questions](random.md)
 
 ___
 ## [Publications & c.](publications.md)
