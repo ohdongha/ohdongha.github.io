@@ -7,6 +7,8 @@ layout: default_modified
 ___
 ### Learning materials (for myself)
 
+- [Bookmarked posts and threads on Bsky](https://bsky.app/hashtag/bookmark?author=inspirace.bsky.social){:target="_blank"}
+
 - Evolution and genetics
 	- [An Owner's Guide to the Human Genome](https://web.stanford.edu/group/pritchardlab/HGbook.html){:target="_blank"} by Jonathan Pritchard, Stanford University; see this [Twitter thread](https://twitter.com/jkpritch/status/1708613301868110018){:target="_blank"}
 	- [Shiny pop-gene course apps and resources](https://github.com/silastittes/shiny_popgen){:target="_blank"} by Silas Tittes
