@@ -14,8 +14,8 @@ ___
 	- [Shiny pop-gene course apps and resources](https://github.com/silastittes/shiny_popgen){:target="_blank"} by Silas Tittes
 
 - Genomics and bioinformatics
-	- [Machine learning for genomics, 2020 Fall](https://www.youtube.com/playlist?list=PLypiXJdtIca6dEYlNoZJwBaz__CdsaoKJ){:target="_blank"} by Prof. Manolis Kellis
-	- [Intro. to bioninformatics and computational biology, 2020 Spring](https://www.youtube.com/playlist?list=PLeB-Dlq-v6tY3QLdQBA7rwb4a7fK9mLpv){:target="_blank"} by Prof. Xiaole Shirley Liu 
+	- [Machine learning for genomics, 2024 Fall](https://m.youtube.com/playlist?list=PLypiXJdtIca4gtioEPLIExlAKvu64z7rc){:target="_blank"} by Prof. Manolis Kellis
+	- [Intro. to bioinformatics and computational biology, 2021](https://m.youtube.com/playlist?list=PLeB-Dlq-v6taAXK6ZCGfqImrNWJzFt3p3){:target="_blank"} by Prof. Xiaole Shirley Liu 
 
 - Math
 	- [Linear algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/){:target="_blank"} by Prof. Gilbert Strang
