@@ -9,11 +9,10 @@ ___
 
 - Comparative genomics to facilitate gene annotation
 
-	- Using orthologs for the curation of problematic gene models
- 	- Fast and accurate protein-to-genome alignments to provide correct homology evidence
-	- Reasonable and reliable Gene Ontology (GO) annotation to non-model organism genomes
-	- Improving protein-coding gene models using sequence conservation in non-model organism genomes 
-  
+	- Fast and accurate protein-to-genome alignments to provide homology evidence for genome annotations
+	- Improving protein-coding genes in non-model organism genomes using orthologs and sequence conservation 
+	- Reasonable Gene Ontology (GO) annotation to non-model organism genomes
+
 - Orthology inference and whole genome alignment (see more in [Random Questions](random.md))
 
 	- Reporting orthologs and paralogs as part of eukaryotic genome annotation
